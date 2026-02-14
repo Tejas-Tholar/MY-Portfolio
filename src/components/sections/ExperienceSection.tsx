@@ -33,7 +33,8 @@ const ExperienceSection = () => {
             <div className="absolute left-0 md:left-1/2 top-0 bottom-0 w-px bg-gradient-to-b from-primary via-secondary to-primary/20" />
 
             {/* Experience card */}
-            <div className="relative pl-8 md:pl-0 md:w-1/2 md:ml-auto md:pr-8">
+            <div className="relative max-w-2xl mx-auto">
+
               {/* Timeline dot */}
               <div className="absolute left-0 md:left-auto md:-right-[calc(50%+0.5rem)] top-0 w-4 h-4 bg-primary rounded-full border-4 border-background shadow-[0_0_10px_hsl(var(--primary))]" />
 

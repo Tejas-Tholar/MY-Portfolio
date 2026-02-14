@@ -2,24 +2,25 @@ import { Shield, Code, Database, GitBranch, Globe, Wrench, Blocks, Terminal } fr
 import { Card, CardContent } from "@/components/ui/card";
 
 const technicalSkills = [
-  { name: "Network Security", icon: Shield, level: 75 },
+  { name: "Network Security", icon: Shield, level: 55 },
   { name: "Cybersecurity Awareness", icon: Shield, level: 80 },
-  { name: "Database Management", icon: Database, level: 70 },
+  { name: "Database Management", icon: Database, level: 40 },
   { name: "Blockchain (Learning)", icon: Blocks, level: 40 },
-  { name: "Git & GitHub", icon: GitBranch, level: 75 },
-  { name: "WordPress", icon: Globe, level: 65 },
-  { name: "Technical Troubleshooting", icon: Wrench, level: 80 },
+  { name: "Git & GitHub", icon: GitBranch, level: 79 },
+  { name: "WordPress", icon: Globe, level: 75 },
+  { name: "Technical Troubleshooting", icon: Wrench, level: 88 },
 ];
 
 const programmingLanguages = [
+  { name: "ASP.NET", level: 75 },
   { name: "C", level: 75 },
   { name: "Java", level: 70 },
-  { name: "Python", level: 65 },
-  { name: "PLSQL", level: 60 },
-  { name: "JavaScript", level: 65 },
+  { name: "Python", level: 75 },
+  { name: "PLSQL", level: 40 },
+  { name: "JavaScript", level: 75 },
   { name: "HTML & CSS", level: 85 },
   { name: "Solidity (Basic)", level: 30 },
-  { name: "8085 Assembly", level: 45 },
+  { name: "8085 Assembly", level: 25 },
 ];
 
 const SkillsSection = () => {
