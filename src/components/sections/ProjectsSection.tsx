@@ -9,7 +9,7 @@ const projects = [
     description:"Traffic Violation Detection System is a web-based platform that enables citizens to report traffic violations with evidence while allowing authorities to verify reports and manage actions efficiently to improve road safety.",
     icon: FaTrafficLight,
     status: "In Production",
-    link: "https://tejastholar.bsite.net/Citizen/Home.aspx"
+    link: "https://trafficviolation.bsite.net/Citizen/home.aspx"
   }
 ];
 
