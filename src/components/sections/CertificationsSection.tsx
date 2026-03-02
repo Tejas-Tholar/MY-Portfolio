@@ -106,25 +106,45 @@ const CertificationsSection = () => {
 
       {/* Modal */}
       {selectedCert && (
-        <div className="fixed inset-0 bg-black/70 backdrop-blur-sm flex items-center justify-center z-50 p-4">
-          <div className="bg-background rounded-2xl w-full max-w-4xl h-[80vh] relative shadow-2xl">
-            
-            {/* Close Button */}
-            <button
-              onClick={() => setSelectedCert(null)}
-              className="absolute top-4 right-4 text-muted-foreground hover:text-primary transition"
-            >
-              <X className="w-6 h-6" />
-            </button>
+            <div className="fixed inset-0 bg-black/80 backdrop-blur-sm flex items-center justify-center z-50 p-4">
+              
+              <div className="w-full max-w-5xl h-[85vh] bg-[#0d1117] rounded-xl shadow-2xl border border-primary/30 flex flex-col overflow-hidden">
+                
+                {/* Terminal Header */}
+                <div className="flex items-center justify-between px-4 py-3 bg-[#161b22] border-b border-primary/20">
+                  
+                  {/* Mac-style dots */}
+                  <div className="flex items-center gap-2">
+                    <span className="w-3 h-3 bg-red-500 rounded-full"></span>
+                    <span className="w-3 h-3 bg-yellow-500 rounded-full"></span>
+                    <span className="w-3 h-3 bg-green-500 rounded-full"></span>
+                  </div>
 
-            {/* PDF Viewer */}
-            <iframe
-              src={selectedCert}
-              className="w-full h-full rounded-2xl"
-            />
-          </div>
-        </div>
-      )}
+                  {/* Terminal Title */}
+                  <div className="text-xs font-mono text-green-400">
+                    tejas@portfolio:~/certificates$
+                  </div>
+
+                  {/* Close Button */}
+                  <button
+                    onClick={() => setSelectedCert(null)}
+                    className="text-gray-400 hover:text-red-400 transition text-sm font-mono"
+                  >
+                    /exit
+                  </button>
+                </div>
+
+                {/* Terminal Body */}
+                <div className="flex-1 bg-black">
+                  <iframe
+                    src={selectedCert}
+                    className="w-full h-full"
+                  />
+                </div>
+
+              </div>
+            </div>
+          )}
     </section>
   );
 };
