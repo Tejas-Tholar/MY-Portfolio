@@ -14,13 +14,13 @@ const highlights = [
   },
   {
     icon: Code,
-    title: "Continuous Learning",
-    description: "Constantly expanding knowledge in security tools and techniques"
+    title: "AI Product Builder",
+    description: "Building AI-powered platforms and personalized learning systems"
   },
   {
     icon: Blocks,
-    title: "Blockchain Explorer",
-    description: "Exploring decentralized technologies and smart contracts"
+    title: "Skillora Founder",
+    description: "Working on an AI platform for personalized education and student tracking"
   }
 ];
 
@@ -29,16 +29,13 @@ const AboutSection = () => {
     <section id="about" className="py-20 md:py-32">
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
-          {/* Section header */}
           <div className="text-center mb-16">
             <span className="text-primary font-mono text-sm mb-2 block">// ABOUT ME</span>
             <h2 className="section-title gradient-text">Who I Am</h2>
           </div>
 
           <div className="grid lg:grid-cols-2 gap-12 items-center">
-            {/* Profile area */}
             <div className="terminal-card p-8">
-              {/* Terminal header */}
               <div className="flex items-center gap-2 mb-6 pb-4 border-b border-border">
                 <span className="w-3 h-3 rounded-full bg-destructive/80" />
                 <span className="w-3 h-3 rounded-full bg-yellow-500/80" />
@@ -46,38 +43,46 @@ const AboutSection = () => {
                 <span className="ml-4 text-muted-foreground font-mono text-sm">about.sh</span>
               </div>
 
-              {/* Terminal content */}
               <div className="font-mono text-sm space-y-3">
                 <p className="text-muted-foreground">
                   <span className="text-primary">$</span> cat about.txt
                 </p>
+
                 <div className="pl-4 text-foreground leading-relaxed">
                   <p className="mb-4">
-                    Hello! I'm <span className="text-primary font-semibold">Tejas Tholar</span>, 
-                    a BCA student at Somaiya Vidyavihar University with a deep passion for 
-                    cybersecurity and network security.
+                    Hello! I'm <span className="text-primary font-semibold">Tejas Tholar</span>,
+                    a BCA student at Somaiya Vidyavihar University with a strong passion for
+                    cybersecurity, AI products, and network security.
                   </p>
+
                   <p className="mb-4">
-                    I believe that in our increasingly connected world, security isn't just a 
-                    feature—it's a necessity. My journey involves understanding vulnerabilities, 
-                    learning defense mechanisms, and exploring the cutting edge of digital protection.
+                    I am also the creator of <span className="text-primary font-semibold">Skillora</span>,
+                    an AI-powered personalized learning platform designed to generate custom courses,
+                    track student progress, and help learners stay consistent with adaptive learning paths.
                   </p>
+
+                  <p className="mb-4">
+                    Skillora focuses on making education smarter using AI-generated roadmaps,
+                    personalized recommendations, analytics, and student performance tracking
+                    to create a better learning experience.
+                  </p>
+
                   <p>
-                    When I'm not studying security protocols, I'm exploring blockchain technology 
-                    and building projects that push my understanding further.
+                    When I'm not building projects like Skillora, I'm exploring cybersecurity,
+                    blockchain technology, and modern software systems that solve real-world problems.
                   </p>
                 </div>
+
                 <p className="text-muted-foreground">
                   <span className="text-primary">$</span> <span className="animate-pulse">_</span>
                 </p>
               </div>
             </div>
 
-            {/* Highlights grid */}
             <div className="grid sm:grid-cols-2 gap-4">
               {highlights.map((item, index) => (
-                <Card 
-                  key={index} 
+                <Card
+                  key={index}
                   className="terminal-card border-border hover:border-primary/50 transition-colors group"
                 >
                   <CardContent className="p-6">
