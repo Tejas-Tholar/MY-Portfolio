@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-24",
- "note": "Auto-collected from public news RSS (last 14 days). ATT&CK IDs by keyword — best-fit mappings of the public reports, not attributions.",
+ "note": "Auto-collected from public news RSS (last 14 days). Summaries and ATT&CK IDs by Gemini — best-fit mappings of the public reports, not attributions.",
  "places": [
   {
    "id": "IN",
@@ -9,20 +9,20 @@
    "lon": 79,
    "incidents": [
     {
+     "title": "​Central Bank of India Reports ₹13.97 Crore Cyber Fraud Across 187 Transactions",
+     "date": "2026-10-24",
+     "source": "The420.in",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeERmdjlUMVdPakdPbGI1YUtDTlYzN1haOUF2OFRPZVUwejR1eHo5LXJ0eVFCQmU1dGtLUHRvUTA2WnBZNmFEem1SbVQwWUpaSUxnaGFwUFRxMG9hWjdGLVFsYUpzd3ctdTFyQl96LU45eDZEbGpDMm1abFNwSmRVdQ?oc=5",
+     "technique": "Phishing",
+     "attack": "T1566"
+    },
+    {
      "title": "SBI Data Breach: State Bank of India Customers Have No DPDP Act Remedy",
      "date": "2026-10-24",
      "source": "The Probe",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Z9IBe0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Zw?oc=5",
      "technique": "Exfiltration (vector not disclosed)",
      "attack": "T1041"
-    },
-    {
-     "title": "Delhi cyber fraud network involving Rs 7.36 crore busted, bank manager among arrested",
-     "date": "2026-10-23",
-     "source": "India Today",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHNxNGJkV1dlb003b19ENUdiaHcySHVhNWpVSENPYU1NZ3dYMEw2RHlsQUE2V2lzNVY5NFY2bmlmMkZscGFHNU41RVVoTTNYcWRKMDNjZWc3OGh0UlBUT3h6ODVfa2NuN3djd0hDQkpQYXU5VEM1T0Ffa3ZEX1dJYzBlVWZLaVh3ZmVMWHdteUJLSkZwRG4yNzlzZVhBN3BCeWN0X19LYkpnOVlMM2tXMXFLNk0tNUpGdXlfUzV2bjFxQmc0QlFwTWtB0gHPAUFVX3lxTE1lbU91b1p4cDZGWXc0WkZzMUxoZF9JRUxUaDh3N2NQOEpYQmo2bU1CeUswckpnN3NEMk5UVkY2UDdYZEd4VEd4MFVsS0g0MGJEZjAybC1JZGdaZUtKV09IS3c1ZTdYMmhsMDBKV0tOYWtGbUdLbnRaQzJOLWJRZThOSnRDUzJ1MUpNTkdzdzZud1lua1F2eWQxZHhhb3lMZTBicThBZDNUcXN4bU1zZVE1QWVJUmVkbHd3Qk54dEY1ZTI3RWNXZWVpdnhTQlFEYw?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
     },
     {
      "title": "AI and cybersecurity weekly: SBI reports cyberattack with 3900 users, India proposes AI governance guidelines, more",
@@ -105,14 +105,6 @@
    "lon": -2,
    "incidents": [
     {
-     "title": "UK Urges Households to Keep 3 Days of Food and Water Amid Outage and Cyberattack Risks",
-     "date": "2026-10-23",
-     "source": "cedarnews.net",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGExXzA5SFRFTFBYcnJxYXdIcGhhTm1hRmoybUF0VHAzVmZIZjd1aDFDdV9NaGw0VDJCOEtMX3FuMVZYYmJDbUROZk93VnBCMmdlRDRlSk5sYlVkWUVFclQ1SnpRSlV6RktnSzc0ckcyN1l4WEhCSFVaWGJ4LTlubzZDby04ZGhtU0plZkhUdE5PdFVFQ3JJNGRNaUdmc2c0MXNIbmVsaldKVDFod2hNRWpZM2h3NC1JOTVwX2tVYzJralVhWnc?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
-    },
-    {
      "title": "Britain’s Defense Chief Urges Public To Prepare For Cyberattack-Driven Supply Chain Disruptions",
      "date": "2026-10-23",
      "source": "Bernama",
@@ -121,10 +113,18 @@
      "attack": "T1195"
     },
     {
-     "title": "Britain’s defense minister urges preparation for disruptions due to cyberattacks — Anadolu Agency",
+     "title": "UK citizens warned to stockpile food in case of cyber attacks",
      "date": "2026-10-23",
-     "source": "UA.NEWS",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWZDVGtFU2FXZkFBOGN5d2RzYXJSVXE3WnlPTHBpOUVLdVJxcF92b19WWjQ1WVRhYi1KMjd1X2ZHZ1dPcXk5QW14UjVkdTNtLXc1NEdOdVA4cndUSTRJUl9MZFpWSThwRmFKaUlLaXJuVy1FR2o2TFJEMW10dll3NW1zWDc3bXhla2dDUVR1S2xBall0bjBSWktiT3dJeFJTY3pEeElPc2JWTFZ2bEpSYVBwR2I2ZHA0?oc=5",
+     "source": "Nine.com.au",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHNqV1pHU0dvZE5ZVzRNeVBqTGR0T1BIOHhhUXVFc0o2MXJOaFlRTGR2WTI0dWRrZm1vS3B3dl80LWlGLUpuaUFkLWNVOUF3Qk9PX20ySUVBTWtqR3g1czg4dWJmTTBPd3dZQXBUMENRRVFnVm5PU1dFejdkU2dwZDNBNzljSHF1QTVkZGp2clJTTldPZXJXZDBxR0VWdE5ISk44S3Vzajh3UDJGc1ZsTno1Q3FnRl9a?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
+    {
+     "title": "UK cyberattack prep: Government urges Londoners to stockpile 3 days of food and water",
+     "date": "2026-10-22",
+     "source": "London Evening Standard",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLS15NjdmdjMzU0E3cHcwektXY1kzVHY1VEVJN2J6M281MnJseFdVeDg1U1AtRTR2T0F2aEF0NHY3WklfUkQ0MDZMYnpoNy1nS2dlYy1FZzJOUGpvcng0NmgzbTJrNmVNd000c0l4RXlXQ25jR05XN3ZMVFdBdFJxekZxbFJ2eDRkMUxRSEF2TmtQNlZmSXIxa2VXWTRmV0Q1dnU4?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     }
@@ -241,10 +241,10 @@
      "attack": "T1486"
     },
     {
-     "title": "Hacked emails yield revelations on Germany's far-right AfD party leader",
+     "title": "Hacked e-mails yield revelations on Germany’s far-right AfD party leader",
      "date": "2026-10-23",
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTUp3TDBYaTdpV3VqejFSMS1BVEZPLVJXTG0wT19yRU1pNW5adEhDYjFXODNMb3JhWWE5aGx4ZjlJdXNNc1JLSkNOTHM2TE55UTB0QnlLN0xhRlZwVHdwRUFoakV3OWJHcWF1Y1E5ZkVjYlJvdWZIVV9RM25pNmx3Mi1RUHZFa0JYaDFWNHgxOGtrMDZmSTMyOWZVSHNZRlZaRmJDZU5HeFQ4MGpUQ0hjbk5XaFBNMEc5Z2dzeVk3Y1d2cnJf?oc=5",
+     "source": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHVocGJnV2xIbkRRRkpsTFY3TUgwNE5kS2NvTkgwbVNrcTRpNXdhZWU4by1qdDE2bU11T3hETWpHVndHTG9DSkRtLVlVWkY4V3czbGtOdEZpeFdJSnBjUlJiT1k0U0stTGNVS2JCVXJMTGt4XzFRTzU1Q2hqREhESzJoc2xZTUp6NnFXZjBoUjNzWllPQjBFUWk1VDFQQVgzVVl4SS1wNUNKSWNta0lobzhn?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
