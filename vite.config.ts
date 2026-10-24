@@ -12,6 +12,10 @@ export default defineConfig(({ mode }) => ({
       overlay: false,
     },
   },
+  build: {
+    // the lazy Three.js globe chunk is ~650 kB (≈180 kB gzip) and loads after first paint
+    chunkSizeWarningLimit: 800,
+  },
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
   resolve: {
     alias: {

@@ -1,0 +1,41 @@
+name: Update threat map
+
+on:
+  schedule:
+    - cron: "30 2 * * *" # 02:30 UTC = 8:00 AM IST, daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-threats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch news and rebuild public/data/threats.json
+        run: node scripts/update-threats.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- public/data/threats.json; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "threat-map-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/threats.json
+          git commit -m "chore(threat-map): daily news refresh $(date -u +%F)"
+          git push
