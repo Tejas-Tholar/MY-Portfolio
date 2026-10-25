@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24",
+ "generated": "2026-10-25",
  "note": "Auto-collected from public news RSS (last 14 days). Summaries and ATT&CK IDs by Gemini — best-fit mappings of the public reports, not attributions.",
  "places": [
   {
@@ -9,20 +9,20 @@
    "lon": 79,
    "incidents": [
     {
-     "title": "​Central Bank of India Reports ₹13.97 Crore Cyber Fraud Across 187 Transactions",
-     "date": "2026-10-24",
-     "source": "The420.in",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeERmdjlUMVdPakdPbGI1YUtDTlYzN1haOUF2OFRPZVUwejR1eHo5LXJ0eVFCQmU1dGtLUHRvUTA2WnBZNmFEem1SbVQwWUpaSUxnaGFwUFRxMG9hWjdGLVFsYUpzd3ctdTFyQl96LU45eDZEbGpDMm1abFNwSmRVdQ?oc=5",
+     "title": "Advocate arrested at Mumbai airport in Rs 28,000 crore pan-India cyber fraud case",
+     "date": "2026-10-25",
+     "source": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjR0T1VqcFF5QllydVRyQVNiVnNTcmxwSV9vWEU2ZWw4SlBqZENyc3hENWNvYUFWMjB3Y2FTSmExWl9QWTFYX3RNcUVlQ1dzUkotMm5FckhMa0VBUGdCcFd2bC1xRDl2aGE3V0htNWJaNkFfemc4VU1fanlfTnVEUGRoVWxWYTh0WGM3a3FQbFNreGRiMk9mUkR6LWNKUWNLOThEcHlyQlJkMW02OHdXV2dia0ctNHVrbjR5UzJUcEpEczNUYWdGN3NIdzRfdmxuaFJHZXJxSVR5dGFNd1hiaWQ3MWYyaDZGQkHSAe8BQVVfeXFMTmliLVhIUUU2MkhCQXk1RHJFQ1kzSGZjbjVZaGg4cWhlcUdCRjNmT0o4VzVMMnZ3OGctWDZwcmc1b0ZENThmTjdwdzdPTzQ5akRoaVNIMXNpLXFzTVlzb2o5cWdfSnZ0OThBMzY4c2RkU3dQWlFzNnViWFJSemNBdU5KMURhcEZHbU5vMlFUa3VnWGtOOWhfeUlmbHoxRGlWUFhFZzd2dE01V3hrRTR5d09EejdNTkE5TGptcVZKTnhXV0U3RFF4NDVWTjlhOUVmbDVCZmtobUl5UUhSZzIzWEYyamdrZFpSMXpqVUl3X2c?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
     },
     {
-     "title": "SBI Data Breach: State Bank of India Customers Have No DPDP Act Remedy",
+     "title": "Inside India’s Cyber Fraud Economy: Bank Insiders, Crypto and Mule Accounts",
      "date": "2026-10-24",
-     "source": "The Probe",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Z9IBe0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Zw?oc=5",
-     "technique": "Exfiltration (vector not disclosed)",
-     "attack": "T1041"
+     "source": "CyberPeace Foundation",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjdkbkM0VGl3aWk4S1ZVYk4wSWJLRzJfQmxhT0I4a0dfZVY5eF9hR0NCdXhkc3VEYWhwWGZ6dWRuZWRGRmxmODZadFNuRzVvbXNmOEhkMFgzeTBhMlBKMjBnWkFiZlRoQ1hheXViWF8yeG91V0txTDZ4a01FS1BQa0Y4bmc2WXNXTGFLMGoxbWptVUZVei1ERm0wN2FwR3RuOHFJZ2xyekhpSUhQUHpjVQ?oc=5",
+     "technique": "Phishing",
+     "attack": "T1566"
     },
     {
      "title": "AI and cybersecurity weekly: SBI reports cyberattack with 3900 users, India proposes AI governance guidelines, more",
@@ -41,26 +41,26 @@
    "lon": 72.8777,
    "incidents": [
     {
-     "title": "Bengaluru SIM Box Network Busted, 4 Arrested in Maharashtra for Cyber Fraud Link",
-     "date": "2026-10-23",
-     "source": "Lokmat Times",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONFpQYm5CZVlWZGZRdE9Bc051LVBhTEtPSEMyRWo1ck9fZTI4ZWFvWFdkNHJLRWxlWGNoclhGSHhpN1dNZFJsMWkxSmFBOTFaQV9IeVd5RzZaUXRYZ0NrTUxDSnZJOENGSDdIa2FiYVVuMUJiUDhsZWlxMmk3VFdxcFFJUnlOWXYzSVhtZXRhcEQ0dEEwS1hBZTV0ek4xWEFSTGtCLWtILUw1YWRXS0xBdUFQZWpueDF5R3N5ckN0MG5DWlUx0gHKAUFVX3lxTE5nbnpaT1FGMGVLLUlOQzFrVlJJWGJBYmVVVF91OXB2NEdiYlJQa0liVkEyTFZyenFBcG8ydnN2d0E0OGwzYmU3OGNtVjZrTUQtZ3VxTkc4T1hHZmhmRmw5UFdQWl8xVXEwQWc5SGRKeTZoYmVvWUN6RWlSb3lnTGloNFJrejREdFpQMlVPUlJsRHFESVNKUW94Qmd0c3ZVY2ZBbnJqVVBPdDBPU0VmMkkxcVgxTXhHMkF2bHhlb0pFa0VvYi0zd2M3U0E?oc=5",
+     "title": "Advocate arrested at Mumbai airport in Rs 28,000 crore pan-India cyber fraud case",
+     "date": "2026-10-25",
+     "source": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjR0T1VqcFF5QllydVRyQVNiVnNTcmxwSV9vWEU2ZWw4SlBqZENyc3hENWNvYUFWMjB3Y2FTSmExWl9QWTFYX3RNcUVlQ1dzUkotMm5FckhMa0VBUGdCcFd2bC1xRDl2aGE3V0htNWJaNkFfemc4VU1fanlfTnVEUGRoVWxWYTh0WGM3a3FQbFNreGRiMk9mUkR6LWNKUWNLOThEcHlyQlJkMW02OHdXV2dia0ctNHVrbjR5UzJUcEpEczNUYWdGN3NIdzRfdmxuaFJHZXJxSVR5dGFNd1hiaWQ3MWYyaDZGQkHSAe8BQVVfeXFMTmliLVhIUUU2MkhCQXk1RHJFQ1kzSGZjbjVZaGg4cWhlcUdCRjNmT0o4VzVMMnZ3OGctWDZwcmc1b0ZENThmTjdwdzdPTzQ5akRoaVNIMXNpLXFzTVlzb2o5cWdfSnZ0OThBMzY4c2RkU3dQWlFzNnViWFJSemNBdU5KMURhcEZHbU5vMlFUa3VnWGtOOWhfeUlmbHoxRGlWUFhFZzd2dE01V3hrRTR5d09EejdNTkE5TGptcVZKTnhXV0U3RFF4NDVWTjlhOUVmbDVCZmtobUl5UUhSZzIzWEYyamdrZFpSMXpqVUl3X2c?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
     },
     {
-     "title": "Bengaluru SIM Box Bust: 10 Devices, 320 Slots And A Maharashtra Trail Uncover Cyber Fraud Network",
-     "date": "2026-10-22",
-     "source": "News18",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUFVRZVNuWU0yQUsyNVFOei1JZjFaSHhGNm4yV2NEcHU2MVBLeDR3TDgyZzlzZWNOUmFwQ2IwQmluSVBoWGVNS3c2QXhma1Y1M1VLVFNMWHB3bWYySmluWHY1d0tEMmw3a1lwMDZVcy1lU0NvaExycmJIQzZ5eFJpMVhMVEVRamlmN084dUt2RE8xTjZvMElPVExPQ3V1ZG1kMlFwRV9rRXJqTl9SY1I2QWRSa2RxMFY1U0VJUUNJWDlxVS1TQ3huUk5fdFZiallWWTh4eXJ6SjAwQTlFLVJOLVdoYzNoMnJMZlZWLU84dEpIUFdD0gH6AUFVX3lxTFA5aTBKMkx0aTVxd3lmVmhTdkJXbXB0ODYycklualNLdEc2RTFPQ1RJd3dOTHlId0JVUUFSWTdEM2d0UmdXaGN6NHY3TXJyZVVJXzYyQVZSd2RTUU5qWXg0TFNKS2ZxNGFvaHBZQkszM0xtZFFaUVhIRXJVbF90NnBqc3lsUWIzWDg1a0Nxem1IQ1ZmU01Hb3RyeENRQ1RXOVdyeXBTeGZCQlMwbjVmUHJ4eVVzR0tFY21tNk9neXBZVUVTcXFkQXVPSDZ4ZXZOenhrTFNqc1hISXltZFQwSDljekZ1VUlXaDdVTVBPenhpRHJ4ZEViLUwtSEE?oc=5",
+     "title": "Mumbai Chefs Lured With Overseas Jobs Allegedly Forced Into Cyber Fraud in Laos",
+     "date": "2026-10-24",
+     "source": "The420.in",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aSFZmTzh1bDZOVE55d0tFdUZwSlBKTFJkNG11eDU4UWw3SjFYdDEyV0VYak1JWjRPc1BpUnF2NkltZVNwZ2h3bWxRQ1dBazVQRUlHNkNrTXZ1MGllTDVjdS1LQTBDS3ZZQnVCNGtfbFZyTFVNSFlhRjVlREg2QQ?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
     },
     {
-     "title": "Mumbai Cyber Fraud: 60-Year-Old Govandi Businessman Duped Of ₹3.61 Lakh In Fake Wedding Invitation APK Scam;",
-     "date": "2026-10-20",
-     "source": "Free Press Journal",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRjRFRjRRQkpONFVpRnlYVm1zVW5aNmtxcmxJOVJiZGhLc1pMa1Myc2hMMXZvcDZ6NzhhTzI3czBWOXFuVnA2NjZ4M2Y1OF9WaGlWX1RfbWQ4T0RUa21INzNnS3A4NG9HZGRyVDI5TUVmXzd1MG90dEs2RXJVenBmbjZFOUJQMmx0RVM1YzBmRmp5MDdUQ3RvRHlsY0I1VkF5cVpYZUFPWmtNVlRvay1tX2hhT2RtSlF1VDhFTVVTdElNbWt6bFdCd2dWY3QtWGtHanFUZ1ZTbVphREs0Tmt6YmZpRGhWS0xpTWRfTGlOSWPSAfYBQVVfeXFMT3FRMDdqTHVEbW8wdk04MkNZNXc0N0dqTFJEbHpVXzFJVmt6OFotd3VPVUhlX3hyMjdJOWp5OFFLaWdNRXpwajRGTE1vUi1zTXpoVzBHVGFtTjQySDZsZU1tZlNiQ3Ywc29XN0dpVnB6VUlNTGVIMlVIQ0NDT3RIelVNZkJUa0ZJLTJickdEaFhOQ3BXVVZhOHNEWWFIX1JWVF9GU3lmZ1dwd1VHTHJvdGw2Vmp1ZWVHTk51STEwcVJ2S09qcDdRT201V0lkbFEtaG9BdEpZaUFGeUhiRmFRUlJ4dVhzbGtGQ3RYWU9FMWFNdGZYV0ZR?oc=5",
+     "title": "Dream job abroad turns nightmare as Mumbai chef forced into cyber fraud",
+     "date": "2026-10-24",
+     "source": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX2R1NC1qUGJKYXUteXVxQmZpc3c1TjZnYUFJQWxLVDU2R3p0ZW1tUHB1S0oyRHBUWFZzai1kaldqVnRxcXlqVzV4ZUpOS2djV1lMM05PLXFFU1Y2R1Vfak9rU3Jsa05ldlRiaG1mRFFXMUs0TzVTekZmSzZNU21aWWJZVHdleVlhNHJhUGRYRGNzdllWd0QzUmxZMzBXSkJHOWdCRUZFV2k5ZU5HZk1HamFiMUp5blpjYU9WRlNuX25HWTBMZHVPSjVuWkhlQm1qcHNlVFg2Z1RaSFBhOVHSAeMBQVVfeXFMTXJKWlBmUk0yWTJGc1JWUUo4YUFTcUZVSXdTWGwyUnhJckJleEJELVhMRUNBeUZUNkZXR3JiNng1TnUtOFkyUGJkZGJjS1hLdGQxN2laa2pFRHNCWTc5eEdodEFwZmFlTWR6TWlmb0dwVW5pSEN4UmxkeUFjSVFsSWxnZlQ3NUE1YkRLLXJfT3dlQzVxZ3Q1U1h1eGRrOGhLTHB0VjRoZzlsdmowOGVxQ3VzRnpfNXQ3bzlHQmZKbzFnSlFMQVdYb3F3RzhlNWYzZEo4c3RqeFJ3LVFyNVZNMy1Na0k?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
     }
@@ -105,26 +105,26 @@
    "lon": -2,
    "incidents": [
     {
-     "title": "Britain’s Defense Chief Urges Public To Prepare For Cyberattack-Driven Supply Chain Disruptions",
+     "title": "Hackers could bring Britain's essential services to a standstill, security chief warns after global website shutdowns",
      "date": "2026-10-23",
-     "source": "Bernama",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZVVPSFkzc3BoZXF3V1hNZ25ORDIwSURmN2l2WGlhVjR4MG9lSzN4WGd3QWtneDU4T1BQQm1CQU9nU1MzMG1kQko0c29mQ3VpNGJ0a3puOFQ5d3JyVjhxakNR?oc=5",
-     "technique": "Supply Chain Compromise",
-     "attack": "T1195"
+     "source": "The European Magazine",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPellTRGo5bGRkWHM3N3lHMmc1bmIxY0M3WHpGYkJma0VXY01SWnVpLVhNVFNud1RpN1lyLWZ6Sk5kX05RSG9DRTNfdXoyRWNQZTZCSV8xZWVSYjloRUNWSndhOFQwdUwxeUlyWG82cm53YmR0bEY2bE9PYlNHelh4bG5lbk9lcFE5RFExMWd2YzFHeFI4SXA0eENFWHRTN1E5VUFndjNfS0lZNGdWOVU3VkEtNG9zeGNRT2RESXhOYnc4UDV2WG9xal9UaDl2Zk5jV1FZS1lENnJwek85MnhLbDgyMFpzbDZrTC00UA?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
+    {
+     "title": "UK defense chief urges readiness for cyberattack disruptions",
+     "date": "2026-10-23",
+     "source": "Yeni Şafak English",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTZSdTk2VGlxSEp3QmlVNmdaMDFrbi1UVTlwZXRKYU81UGdqYmc1WE8tWXl3QkJMUFVuM01PdlBRdUtKOU8wWnBxUTZhX3dJbHREUW1tdG5rODdHTS1NaEk1U2dLNkRTelRMb1hIclNWSmQydW5OZ29POENoamt0TmlMUjFOODVoOTM2ZUZHYUpmUUw3V0xaRnpnUWxEMExaRkdz?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
     },
     {
      "title": "UK citizens warned to stockpile food in case of cyber attacks",
      "date": "2026-10-23",
      "source": "Nine.com.au",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHNqV1pHU0dvZE5ZVzRNeVBqTGR0T1BIOHhhUXVFc0o2MXJOaFlRTGR2WTI0dWRrZm1vS3B3dl80LWlGLUpuaUFkLWNVOUF3Qk9PX20ySUVBTWtqR3g1czg4dWJmTTBPd3dZQXBUMENRRVFnVm5PU1dFejdkU2dwZDNBNzljSHF1QTVkZGp2clJTTldPZXJXZDBxR0VWdE5ISk44S3Vzajh3UDJGc1ZsTno1Q3FnRl9a?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
-    },
-    {
-     "title": "UK cyberattack prep: Government urges Londoners to stockpile 3 days of food and water",
-     "date": "2026-10-22",
-     "source": "London Evening Standard",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLS15NjdmdjMzU0E3cHcwektXY1kzVHY1VEVJN2J6M281MnJseFdVeDg1U1AtRTR2T0F2aEF0NHY3WklfUkQ0MDZMYnpoNy1nS2dlYy1FZzJOUGpvcng0NmgzbTJrNmVNd000c0l4RXlXQ25jR05XN3ZMVFdBdFJxekZxbFJ2eDRkMUxRSEF2TmtQNlZmSXIxa2VXWTRmV0Q1dnU4?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     }
@@ -138,7 +138,7 @@
    "incidents": [
     {
      "title": "Breach Roundup: Russian Hackers Hit Ukrainian Grain Firm",
-     "date": "2026-10-24",
+     "date": "2026-10-25",
      "source": "BankInfoSecurity",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGNrWEE1VjY5VUFPVXk3WXNkQ3liYzNDVnF4eWg2a0dpLTY5eWtZTkNObzNzaGZzU3VocUtLNkkyZ212OS01cER5dmtQZDdkTnQ5OUFhclQtajQ0TkhNTnR4amFlN3hOZlFUZE1JQ2t5VlhLZnNPMUdSOHN2R1FNaE96WFZuS1E5dTNySnQxRDk3anNZZC1Ub3Ixd2o?oc=5",
      "technique": "Exfiltration (vector not disclosed)",
@@ -169,10 +169,18 @@
    "lon": 104,
    "incidents": [
     {
-     "title": "China’s Moonshot AI limits hacking capabilities in new Kimi model amid cyberattack fears",
-     "date": "2026-10-24",
-     "source": "Telegraph India",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ196NEZid0RiTGpHT3VRTjhlWkRURGNrbldqdFdoc1Y4YmM3cG9fbGU0dDJKdmVodVBwWGUyTDdCS082b0V0dmpVV2VZM0dLM2haNXJpLUNXblkzNGVNTkFoajZQNFNUeFpieWRiM0hqQ2FscmJ1bWFhSFJQNFFiUlJFX2xMbE1wUVBBM3FqczhYdWZaNTVkOW02aW9rSE44VkpQcW1RQUpPWFduWXoxMHZMV0c2d9IBuwFBVV95cUxOdDFCdVQ5YzduYzhtd3B3RzRxbnBGb25IMzBnZ2VmVVBnRF8zOEstZ3NhdnQ5eUlqS2Qxc3lNUnNWQ1BLQkM0UVFHMHlZaEtuOFU2TGpldnM3SzhzSnpFckdDcXRCeEZtVGRrY3Vtc2RiaUwxdFhzem9LYkVudzhNV3lLWWVGc2hHNHlVenQ0OGZvaXR0ZTkxSUdJYlUyY1dORW4wY2JIUHNFekRKZ1ZaWnZEekNKSEw0LTdr?oc=5",
+     "title": "Scam Bhadrak Agent Held in China-Linked Cyber Fraud",
+     "date": "2026-10-25",
+     "source": "Argus English",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbFFrSXJCamI0TXA5OWk0TDlBb204U1BfaVpTc2hjcWVFcVNlREhUZkRVNkItb0dRTHFTazNZcFdOR25NLWFpZjlNaTFZaWFLM1I4b0pQR08zQmFRMWc0bEE4UkdmMkhVUHQxeWIydFhTWjBEc1luaGhtUFNsNFlnUXhEbw?oc=5",
+     "technique": "Phishing",
+     "attack": "T1566"
+    },
+    {
+     "title": "China denies cyberattack allegations",
+     "date": "2026-10-25",
+     "source": "FBC News",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CQWY1cjUyVEJWbzIxVmFhTzNPdGpCWHB1cGEtMGpfY2pfNGgtNjM4Wm95eWRyb2h0NVVGalZYek95WjRhd2lmOEtueWtmUWd0Z05teFlKWUpxbXo4UHd2WGhaVmJTbENxaGsyNjk0MkdsMHFkR3VBQg?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
@@ -183,14 +191,6 @@
      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
      "technique": "Exploit Public-Facing Application",
      "attack": "T1190"
-    },
-    {
-     "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack — agents attempted sign-ins at more than 2,250 Microsoft 365 tenants, with some of the group's attacks reaching privileged access in under three hours",
-     "date": "2026-10-23",
-     "source": "Tom's Hardware",
-     "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNdXpCa2dBcmV3aXJPczJUMUs0Y2RQa1dFdUE5bWQtUmQ2Q24xaDhfQmlXRFJQMjFUbGRocmJCZnZHU2gwcEM0U3pHMjNkXzJReXNOLWJMRU5waEltRHpSQm1yTi1ZbEh4Nmw1U3E5SHJiV292RWI1MGptZTVYSFdleV81ZkJtOVB4cXNnTUplb283R3VKWWF3WjEzYkc3RlVaRmlKNkVaU1JVTlhaVUw1YUZDWVJTaWdtZGZ6YS1ma293MWRJUW1IVExTRFJGdW9FOGFLa3dyQk93TTljdE04Z282MWhkWnFQSWJHaVFBSnFXWm9XNGJkSnBvalA1VHFJUWFyY29UaVo2RXhiZjJtdC1QTF95VVBEcGlPWGcwRUNxX3ZidHJNbC1FbU1ucUh3Z3VJUk9tSk1FV3FYQ0pNUWZQVG1EUEhBU1ZhbmplRG43Q0FHaE1SZEFSSXRJMEhrUmNaWEhsMzlUb1oyaGl6ZFF5WmNMNjA2cFVZc3BHQVZwdEhsOTVGei1jcnM0cVRRYVI5MWJZODBseTF6V2pVeg?oc=5",
-     "technique": "Supply Chain Compromise",
-     "attack": "T1195"
     }
    ]
   },
@@ -233,18 +233,10 @@
    "lon": 10,
    "incidents": [
     {
-     "title": "US, UK and Germany Warn of Active SafePay Ransomware",
-     "date": "2026-10-24",
-     "source": "BankInfoSecurity",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVdOVGg0YVUzN2x0X3dlU0RXWkRMWHFkeURpNU5sU3RrRDY1c3NvM042dHJYT1E2Q29RenhISFhfSzAydmJPcjZnampBeWE2MHN2b3BmeHl1UWwtdV94VERSUGllTGZRNkR6UVBnS1Q5WVBySWQ1RHdBLWxuS2Y0LTZsNDhpalgzZUVZajd3?oc=5",
-     "technique": "Data Encrypted for Impact (ransomware)",
-     "attack": "T1486"
-    },
-    {
-     "title": "Hacked e-mails yield revelations on Germany’s far-right AfD party leader",
+     "title": "Hacked emails yield revelations on Germany's far-right AfD party leader",
      "date": "2026-10-23",
-     "source": "The Straits Times",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHVocGJnV2xIbkRRRkpsTFY3TUgwNE5kS2NvTkgwbVNrcTRpNXdhZWU4by1qdDE2bU11T3hETWpHVndHTG9DSkRtLVlVWkY4V3czbGtOdEZpeFdJSnBjUlJiT1k0U0stTGNVS2JCVXJMTGt4XzFRTzU1Q2hqREhESzJoc2xZTUp6NnFXZjBoUjNzWllPQjBFUWk1VDFQQVgzVVl4SS1wNUNKSWNta0lobzhn?oc=5",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTUp3TDBYaTdpV3VqejFSMS1BVEZPLVJXTG0wT19yRU1pNW5adEhDYjFXODNMb3JhWWE5aGx4ZjlJdXNNc1JLSkNOTHM2TE55UTB0QnlLN0xhRlZwVHdwRUFoakV3OWJHcWF1Y1E5ZkVjYlJvdWZIVV9RM25pNmx3Mi1RUHZFa0JYaDFWNHgxOGtrMDZmSTMyOWZVSHNZRlZaRmJDZU5HeFQ4MGpUQ0hjbk5XaFBNMEc5Z2dzeVk3Y1d2cnJf?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
@@ -255,6 +247,14 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVGp2MGlLY2JNa1Z4QjVGeTBDcGlsa19FWk5wdW95N3R2TFYwSFc2cExVakR3c3JzcjVkNFlrLVFsRXZ3VlZSS0lyX29zLU1Cb0ZCdkp4aXlLazUtX1FGTk9HQzFrWVBPNHhPeHpvYXdtRzlmWU1VN3pWOEtEWEZCZQ?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
+    },
+    {
+     "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+     "date": "2026-10-23",
+     "source": "Bitdefender",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUJwVVRxRkdXS2ZMUm9XcTlCbm5FY1FDOXFldExRdXlqVnQ2UUJuaXV6VEZUbnFmT3NwUEpEdzJHd0FYYTl5LUd2Yzh0Q0JZWS1JajdSb3lRS21CcVRQcEJZdHR1RGdSV1VSTXFXRkZUV1BQVS14eWZDQ01rV2dOOXI4OTVfZFJMYWVxY1A0TlRIQmdn?oc=5",
+     "technique": "Exfiltration (vector not disclosed)",
+     "attack": "T1041"
     }
    ]
   },
@@ -276,7 +276,7 @@
      "title": "Optus seeks soft-class closure ahead of Australian data-breach mediation",
      "date": "2026-10-22",
      "source": "MLex",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeWVFWlhHUTRfRE1DdTB1ZnVtZG9lMXh6OWlZLTRsXzVoenRzSWVSSmhQaDFJV01NNHJ5OUlTaEd0ZUlCdTBhcml6eWhSblI0cXl0N0UxRFlKWTJOem93RDVlazNIZXozNmtBYjBEYkJhS2JHZ2gxRVg0TVRwOURRN0JONEQ5NHh1MGs2d1g2Mk5LbXM0TVBubXI4X28yd2VINTJqazdHcTZwM3hQRHZiLVRIT0R3R29SM3pKV3U1eHZsZmE3TnM0NDNiZXh1MDJCRXhn0gFaQVVfeXFMUHFFQ3JQWmR5emVOWFo5Vkl5b3IwaGFOUHJYNnNMZTFsZ2RscHBGVmxlTWZMUndzZkgtZjlZWV9XendtZ3NOSzdKZWNMdEROWFlLdnY2V3YwQkVR?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNempiaFl2SzN6Q2JfQUJTRnFtVjQ4dVlrd0tNSWFZMnJicXdSeWJPZllsZFVFMWYwa21zUjNRd0U4TmNPNXdrTk1hZVNDY3FNZEN3RU5rbkJtUFl2SzI4dnR1SEZZcW1iZUk5dzNycUhNNmtyMFY4aW1zb0JrX1BmNWhpblQ4SnZkeEZwNWVWLW1XMGJMYlZRUm1IS29Nc0dXUE5oWkNCX1ZvaVNBYWVXYlVqbnBkQdIBWkFVX3lxTFBxRUNyUFpkeXplTlhaOVZJeW9yMGhhTlByWDZzTGUxbGdkbHBwRlZsZU1mTFJ3c2ZILWY5WVlfV3p3bWdzTks3SmVjTHRETlhZS3Z2Nld2MEJFUQ?oc=5",
      "technique": "Exfiltration (vector not disclosed)",
      "attack": "T1041"
     },
