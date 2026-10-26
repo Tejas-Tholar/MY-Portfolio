@@ -1,0 +1,48 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "tejastholar-portfolio.vercel.app"
+        }
+      ],
+      "destination": "https://www.hackertejas.me/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "my-portfolio-ochre-one-33.vercel.app"
+        }
+      ],
+      "destination": "https://www.hackertejas.me/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "hackertejas.vercel.app"
+        }
+      ],
+      "destination": "https://www.hackertejas.me/:path*",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}

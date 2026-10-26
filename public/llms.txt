@@ -1,0 +1,35 @@
+# Tejas Tholar — Cybersecurity · VAPT · Builder
+
+> Tejas Tholar is a Mumbai-based BCA student at Somaiya Vidyavihar University (Class of 2027) focused on VAPT (vulnerability assessment and penetration testing), web application security and network security, and a full-stack web developer. This is his portfolio: https://www.hackertejas.me/
+
+## About
+- Name: Tejas Tholar
+- Location: Mumbai, Maharashtra, India
+- Focus: VAPT / penetration testing, web application security, network security
+- Education: BCA, Somaiya Vidyavihar University (Class of 2027)
+- Experience: Network Security Intern, Indian Oil Corporation Ltd. (May–Jul 2025) — firewall configuration and access-control rule reviews, network monitoring for abnormal traffic, LAN troubleshooting and zone segmentation
+- Contact: tejastholar@outlook.com
+
+## Skills
+- Security tools: Nmap, Wireshark, Nuclei, Kali Linux
+- Concepts: vulnerability assessment, network security, firewall management, segmentation
+- Code: Python, JavaScript / React, Next.js, C, Java, ASP.NET, PL/SQL
+
+## Projects
+- Volunteer Connect: volunteer–NGO platform built OWASP-aligned (JWT + bcrypt, role-based access, rate limiting, audit logs)
+- DineFlow: contactless QR ordering for restaurants with real-time kitchen tracking — https://dineflow-zeta.vercel.app
+- Skillora: AI-powered personalised learning in 10+ Indian languages (founder, in development) — https://skillorai.in
+- Traffic Violation Detection: citizen road-safety reporting with an authority verification workflow (ASP.NET, academic)
+- BrandlyCollab: creator marketing agency connecting D2C brands with nano and micro creators (founder) — https://brandlycollab.in
+
+## Certifications
+- Network Security (Cisco, Coursera)
+- Kali Linux (Board Infinity, Coursera)
+- Ethical Hacking (IIT Bombay Techfest)
+- Git & GitHub for Beginners
+
+## Links
+- Portfolio: https://www.hackertejas.me/
+- Resume (PDF): https://www.hackertejas.me/Tejas%20Tholar%20Resume.pdf
+- GitHub: https://github.com/Tejas-Tholar
+- LinkedIn: https://www.linkedin.com/in/tejas-tholar-36b016317
