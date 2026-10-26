@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25",
+ "generated": "2026-10-26",
  "note": "Auto-collected from public news RSS (last 14 days). Summaries and ATT&CK IDs by Gemini — best-fit mappings of the public reports, not attributions.",
  "places": [
   {
@@ -9,28 +9,20 @@
    "lon": 79,
    "incidents": [
     {
+     "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+     "date": "2026-10-21",
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+     "technique": "Exfiltration (vector not disclosed)",
+     "attack": "T1041"
+    },
+    {
      "title": "Advocate arrested at Mumbai airport in Rs 28,000 crore pan-India cyber fraud case",
      "date": "2026-10-25",
      "source": "The Times of India",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjR0T1VqcFF5QllydVRyQVNiVnNTcmxwSV9vWEU2ZWw4SlBqZENyc3hENWNvYUFWMjB3Y2FTSmExWl9QWTFYX3RNcUVlQ1dzUkotMm5FckhMa0VBUGdCcFd2bC1xRDl2aGE3V0htNWJaNkFfemc4VU1fanlfTnVEUGRoVWxWYTh0WGM3a3FQbFNreGRiMk9mUkR6LWNKUWNLOThEcHlyQlJkMW02OHdXV2dia0ctNHVrbjR5UzJUcEpEczNUYWdGN3NIdzRfdmxuaFJHZXJxSVR5dGFNd1hiaWQ3MWYyaDZGQkHSAe8BQVVfeXFMTmliLVhIUUU2MkhCQXk1RHJFQ1kzSGZjbjVZaGg4cWhlcUdCRjNmT0o4VzVMMnZ3OGctWDZwcmc1b0ZENThmTjdwdzdPTzQ5akRoaVNIMXNpLXFzTVlzb2o5cWdfSnZ0OThBMzY4c2RkU3dQWlFzNnViWFJSemNBdU5KMURhcEZHbU5vMlFUa3VnWGtOOWhfeUlmbHoxRGlWUFhFZzd2dE01V3hrRTR5d09EejdNTkE5TGptcVZKTnhXV0U3RFF4NDVWTjlhOUVmbDVCZmtobUl5UUhSZzIzWEYyamdrZFpSMXpqVUl3X2c?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
-    },
-    {
-     "title": "Inside India’s Cyber Fraud Economy: Bank Insiders, Crypto and Mule Accounts",
-     "date": "2026-10-24",
-     "source": "CyberPeace Foundation",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjdkbkM0VGl3aWk4S1ZVYk4wSWJLRzJfQmxhT0I4a0dfZVY5eF9hR0NCdXhkc3VEYWhwWGZ6dWRuZWRGRmxmODZadFNuRzVvbXNmOEhkMFgzeTBhMlBKMjBnWkFiZlRoQ1hheXViWF8yeG91V0txTDZ4a01FS1BQa0Y4bmc2WXNXTGFLMGoxbWptVUZVei1ERm0wN2FwR3RuOHFJZ2xyekhpSUhQUHpjVQ?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
-    },
-    {
-     "title": "AI and cybersecurity weekly: SBI reports cyberattack with 3900 users, India proposes AI governance guidelines, more",
-     "date": "2026-10-23",
-     "source": "Hindustan Times",
-     "url": "https://www.hindustantimes.com/technology/ai-and-cybersecurity-weekly-sbi-reports-cyberattack-with-3900-users-india-proposes-ai-governance-guidelines-more-101792749714524.html",
-     "technique": "Exploit Public-Facing Application",
-     "attack": "T1190"
     }
    ]
   },
@@ -53,14 +45,6 @@
      "date": "2026-10-24",
      "source": "The420.in",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aSFZmTzh1bDZOVE55d0tFdUZwSlBKTFJkNG11eDU4UWw3SjFYdDEyV0VYak1JWjRPc1BpUnF2NkltZVNwZ2h3bWxRQ1dBazVQRUlHNkNrTXZ1MGllTDVjdS1LQTBDS3ZZQnVCNGtfbFZyTFVNSFlhRjVlREg2QQ?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
-    },
-    {
-     "title": "Dream job abroad turns nightmare as Mumbai chef forced into cyber fraud",
-     "date": "2026-10-24",
-     "source": "The Times of India",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX2R1NC1qUGJKYXUteXVxQmZpc3c1TjZnYUFJQWxLVDU2R3p0ZW1tUHB1S0oyRHBUWFZzai1kaldqVnRxcXlqVzV4ZUpOS2djV1lMM05PLXFFU1Y2R1Vfak9rU3Jsa05ldlRiaG1mRFFXMUs0TzVTekZmSzZNU21aWWJZVHdleVlhNHJhUGRYRGNzdllWd0QzUmxZMzBXSkJHOWdCRUZFV2k5ZU5HZk1HamFiMUp5blpjYU9WRlNuX25HWTBMZHVPSjVuWkhlQm1qcHNlVFg2Z1RaSFBhOVHSAeMBQVVfeXFMTXJKWlBmUk0yWTJGc1JWUUo4YUFTcUZVSXdTWGwyUnhJckJleEJELVhMRUNBeUZUNkZXR3JiNng1TnUtOFkyUGJkZGJjS1hLdGQxN2laa2pFRHNCWTc5eEdodEFwZmFlTWR6TWlmb0dwVW5pSEN4UmxkeUFjSVFsSWxnZlQ3NUE1YkRLLXJfT3dlQzVxZ3Q1U1h1eGRrOGhLTHB0VjRoZzlsdmowOGVxQ3VzRnpfNXQ3bzlHQmZKbzFnSlFMQVdYb3F3RzhlNWYzZEo4c3RqeFJ3LVFyNVZNMy1Na0k?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
     }
@@ -89,12 +73,12 @@
      "attack": "T1041"
     },
     {
-     "title": "Cyber attack on US medical lab leaks patient data: 716 attacks on healthcare sector worldwide this year, 41...",
-     "date": "2026-10-23",
-     "source": "Bhaskar English",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0hGVUNkcFNINUpJakFyUmoxcUpuaTNiUjBhZ3RqbVA2Zjk5cGtPdFFPcTRIYmRVMmYwNTNLRU5rS09LVXJBY2xvbzlpY0FWRmtoRlItWDM1M2NjLXZMN3FVcHkybFgzTUZsYVF3VFoyWV9QR3VmdEtCU0JHd2QxcGowX3cyS0lOVXZyRS1SZnhDVnhTdWs2bkxoNlhfaGFYX0RtUTR3MWhEV09kaXBCaG9ENnFkUdIBuwFBVV95cUxNMndnNFZnZ1c0UWRGclFVdU5kMHVDdGp3bXRLQ0NvNUh6R0JrTnhIdVVlY1JSNFRKOGYxYWhiQW1tNC1KaENjejZLTUhiUzhIQnRQajNBWWt6SFIzVGJKN1ZhcXpmUUlXYTYxSEQ0SkwwbDF1bkFYTERjUGl3cXh1UmZxZGkzVmJhdWZSWmhyNGtoOGdSZ1R3dzY0SXVyTXE0X1k2LW1qNDNKd2x5MkZEM0VBT0ZMWGo4UkpR?oc=5",
-     "technique": "Exfiltration (vector not disclosed)",
-     "attack": "T1041"
+     "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+     "date": "2026-10-21",
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
     }
    ]
   },
@@ -119,14 +103,6 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTZSdTk2VGlxSEp3QmlVNmdaMDFrbi1UVTlwZXRKYU81UGdqYmc1WE8tWXl3QkJMUFVuM01PdlBRdUtKOU8wWnBxUTZhX3dJbHREUW1tdG5rODdHTS1NaEk1U2dLNkRTelRMb1hIclNWSmQydW5OZ29POENoamt0TmlMUjFOODVoOTM2ZUZHYUpmUUw3V0xaRnpnUWxEMExaRkdz?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
-    },
-    {
-     "title": "UK citizens warned to stockpile food in case of cyber attacks",
-     "date": "2026-10-23",
-     "source": "Nine.com.au",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHNqV1pHU0dvZE5ZVzRNeVBqTGR0T1BIOHhhUXVFc0o2MXJOaFlRTGR2WTI0dWRrZm1vS3B3dl80LWlGLUpuaUFkLWNVOUF3Qk9PX20ySUVBTWtqR3g1czg4dWJmTTBPd3dZQXBUMENRRVFnVm5PU1dFejdkU2dwZDNBNzljSHF1QTVkZGp2clJTTldPZXJXZDBxR0VWdE5ISk44S3Vzajh3UDJGc1ZsTno1Q3FnRl9a?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
     }
    ]
   },
@@ -136,14 +112,6 @@
    "lat": 60,
    "lon": 90,
    "incidents": [
-    {
-     "title": "Breach Roundup: Russian Hackers Hit Ukrainian Grain Firm",
-     "date": "2026-10-25",
-     "source": "BankInfoSecurity",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGNrWEE1VjY5VUFPVXk3WXNkQ3liYzNDVnF4eWg2a0dpLTY5eWtZTkNObzNzaGZzU3VocUtLNkkyZ212OS01cER5dmtQZDdkTnQ5OUFhclQtajQ0TkhNTnR4amFlN3hOZlFUZE1JQ2t5VlhLZnNPMUdSOHN2R1FNaE96WFZuS1E5dTNySnQxRDk3anNZZC1Ub3Ixd2o?oc=5",
-     "technique": "Exfiltration (vector not disclosed)",
-     "attack": "T1041"
-    },
     {
      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
      "date": "2026-10-23",
@@ -169,28 +137,20 @@
    "lon": 104,
    "incidents": [
     {
-     "title": "Scam Bhadrak Agent Held in China-Linked Cyber Fraud",
-     "date": "2026-10-25",
-     "source": "Argus English",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbFFrSXJCamI0TXA5OWk0TDlBb204U1BfaVpTc2hjcWVFcVNlREhUZkRVNkItb0dRTHFTazNZcFdOR25NLWFpZjlNaTFZaWFLM1I4b0pQR08zQmFRMWc0bEE4UkdmMkhVUHQxeWIydFhTWjBEc1luaGhtUFNsNFlnUXhEbw?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
-    },
-    {
-     "title": "China denies cyberattack allegations",
-     "date": "2026-10-25",
-     "source": "FBC News",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CQWY1cjUyVEJWbzIxVmFhTzNPdGpCWHB1cGEtMGpfY2pfNGgtNjM4Wm95eWRyb2h0NVVGalZYek95WjRhd2lmOEtueWtmUWd0Z05teFlKWUpxbXo4UHd2WGhaVmJTbENxaGsyNjk0MkdsMHFkR3VBQg?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
-    },
-    {
      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
      "date": "2026-10-23",
      "source": "The Hacker News",
      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
      "technique": "Exploit Public-Facing Application",
      "attack": "T1190"
+    },
+    {
+     "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+     "date": "2026-10-22",
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+     "technique": "Supply Chain Compromise",
+     "attack": "T1195"
     }
    ]
   },
@@ -215,14 +175,6 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hS1JYVHFDaGFMOEhDZE9mbW9yVTdrX2dmWGhGSF9TdWItUnFaVGI0Vm9rNDktWjdCWC1fNDdGNFdfR0xhMnVsaXgyaFV3X29RbG1zcFh4NE1qVzFnS1pMOFR1Mk5LTGR0RmhMaFoydWxLdFQxQkFpSjFHcGM?oc=5",
      "technique": "Exfiltration (vector not disclosed)",
      "attack": "T1041"
-    },
-    {
-     "title": "Google defends Android developer verification in Brazil, cites malware risks",
-     "date": "2026-10-15",
-     "source": "MLex",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSWxzT19VVF9XMC1DM1hkZ0toM2tQR2w3UFZJUzZUd0ZYMXNEdXVvSHdsdkk4N3VmMzFLRGVmbkVnaVJhdnJnQ2RWTTRUYXdraEF2aS1kVHZSaTZEMGtnWWh6STluWk9BT1I5bGdjZFRCaUNZUUJjZUZhREVUMDh6dGdfQ25xUWFhNVl2aXVWYlRpWEpRdks5aGZoTlFvdU9melM5QmJILXhJWTJnY1czOUhTanItYTBHNEHSAVpBVV95cUxNSVNMM1NwMzM4NDJTYTl4WFJ2SmhTck0xSm5WZFZxdE5yeW5zOW9GUEpPYVpQTTdzemJsaWR2dXdxR0drYmZLZm9XZFNnMm1RUTR4STk2RG1JS3c?oc=5",
-     "technique": "User Execution (malware)",
-     "attack": "T1204"
     }
    ]
   },
@@ -247,14 +199,6 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVGp2MGlLY2JNa1Z4QjVGeTBDcGlsa19FWk5wdW95N3R2TFYwSFc2cExVakR3c3JzcjVkNFlrLVFsRXZ3VlZSS0lyX29zLU1Cb0ZCdkp4aXlLazUtX1FGTk9HQzFrWVBPNHhPeHpvYXdtRzlmWU1VN3pWOEtEWEZCZQ?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
-    },
-    {
-     "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
-     "date": "2026-10-23",
-     "source": "Bitdefender",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUJwVVRxRkdXS2ZMUm9XcTlCbm5FY1FDOXFldExRdXlqVnQ2UUJuaXV6VEZUbnFmT3NwUEpEdzJHd0FYYTl5LUd2Yzh0Q0JZWS1JajdSb3lRS21CcVRQcEJZdHR1RGdSV1VSTXFXRkZUV1BQVS14eWZDQ01rV2dOOXI4OTVfZFJMYWVxY1A0TlRIQmdn?oc=5",
-     "technique": "Exfiltration (vector not disclosed)",
-     "attack": "T1041"
     }
    ]
   },
@@ -279,14 +223,6 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNempiaFl2SzN6Q2JfQUJTRnFtVjQ4dVlrd0tNSWFZMnJicXdSeWJPZllsZFVFMWYwa21zUjNRd0U4TmNPNXdrTk1hZVNDY3FNZEN3RU5rbkJtUFl2SzI4dnR1SEZZcW1iZUk5dzNycUhNNmtyMFY4aW1zb0JrX1BmNWhpblQ4SnZkeEZwNWVWLW1XMGJMYlZRUm1IS29Nc0dXUE5oWkNCX1ZvaVNBYWVXYlVqbnBkQdIBWkFVX3lxTFBxRUNyUFpkeXplTlhaOVZJeW9yMGhhTlByWDZzTGUxbGdkbHBwRlZsZU1mTFJ3c2ZILWY5WVlfV3p3bWdzTks3SmVjTHRETlhZS3Z2Nld2MEJFUQ?oc=5",
      "technique": "Exfiltration (vector not disclosed)",
      "attack": "T1041"
-    },
-    {
-     "title": "Spyware hidden in online ads hits Australian targets",
-     "date": "2026-10-22",
-     "source": "Information Age | ACS",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONm1PWHFiZmU2OTRZcDBRUEFQM21CM0k3RmxRN0RvazV5U2lIeHF3b0w2bm1qZzJyX19xT0pKQURsRkxZUzJTTEdJNUFOVU1sZjdyRll3OGRoay1CYlpYQjZnNk5sbERuQUJ0VkR6SFR1TkRldHFrTzctOGVMVlVldGlZQ1d1VlJRU3U5OURPUUVVeVU2ZVBV?oc=5",
-     "technique": "User Execution (malware)",
-     "attack": "T1204"
     }
    ]
   }
