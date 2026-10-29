@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28",
+ "generated": "2026-10-29",
  "note": "Auto-collected from public news RSS (last 14 days). Summaries and ATT&CK IDs by Gemini — best-fit mappings of the public reports, not attributions.",
  "places": [
   {
@@ -9,28 +9,28 @@
    "lon": 79,
    "incidents": [
     {
-     "title": "Delhi Police bust cyber fraud nexus: How Rs 3.93 cr ‘moved’ through mule account-crypto-hawala trail",
+     "title": "India’s Film Certification Board Data Breach Exposes Documents Linked to More Than 500 Film Titles",
      "date": "2026-10-28",
-     "source": "ThePrint",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXBhakZNRlZYd0MtbnVtU1VSQThIVWM2eUtOM19qb1UxWjVQaWV1U2phWnpuZVhvQ2RJQXpMRjFYXzVYalZnazkyZ0gyeVNIQThKbWxycUkzY01tQjVGNjRFNXQxVDJnWTFMUDhWcXJuUUNfbVFETjF5cWg1QV9MMEx6OVpuNGNWd0NPbGdySEdBaE12RWxWeW40X2dlU2xpRkF0Q25kaG5PeS1tdmpYYngyM3ZJUXhPTV8wcjZSVlJQT24yMVJZZ2kxXzV3N3loU2fSAdIBQVVfeXFMUHVwYWpGTUZWWHdDLW51bVNVUkE4SFVjNnlLTjNfam9VMVo1UGlldVNqYVp6bmVYb0NkSUF6TEYxWF81WGpWZ2s5MmdIMnlTSEE4Sm1scnFJM2NNbUI1RjY0RTV0MVQyZ1kxTFA4VnFyblFDX21RRE4xeXFoNUFfTDBMejlabjRjVndDT2xnckhHQWhNdkVsVnluNF9nZVNsaUZBdENuZGhuT3ktbXZqWGJ4MjN2SVF4T01fMHI2UlZSUE9uMjFSWWdpMV81dzd5aFNn?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
+     "source": "Security Boulevard",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcUc2ZkpUdnlBLVVHQnlBQ1JWZy1XSmFUc0c4Ty1kTU5EdVlILVAzRHpNbzRmYnN4OGFxcFRGeWk0b2ptYWZHVGRUUmRNWkE3T3czU3YxYWpBOV9mUGhOcmxRWWZkaHROZ0xESHFiR0U4SmVZdV9iNXVtb3BLSVQzS2kzQlVwcVUtN3NlY2lnQk84TWtocDNZVmlvcmFmbTRnS3ZCQnNJQTFFb1VCaGY4WXM4LU11SWRZZlZPUTZzSGdfTm1ERFFkcWtVVzFRSV80UVE?oc=5",
+     "technique": "Exfiltration (vector not disclosed)",
+     "attack": "T1041"
     },
     {
-     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
-     "date": "2026-10-27",
-     "source": "ET Entrepreneur",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
+     "title": "India’s Cybersecurity Company That “Almost” Got Hacked",
+     "date": "2026-10-28",
+     "source": "LinkedIn",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaE9VWEVRTmJXczVDTExaVnctV2NGVVRvMmEwbVdieHFwUC1rUzJiX2dpVzlZU0syWVJURjk5TUktZW00cUlfTFZYaGt0VkhDZkRMUmpsZmtfSEd0ZDYwTXVTNnNCcFRWTm56QTRiTzVVMHJVY1ZRVnRMQkkxRERTZG9raTdUQnpqYTkxdG9ybXRVLVZiRjUyRndR?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
     {
-     "title": "7 Arrested After Rs 4 Crore Cyber Fraud In Delhi. Cops Probe Hawala Link",
-     "date": "2026-10-27",
-     "source": "NDTV",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXFtcTRaWTR1bWdLS3NKaGVmdWk0Z0owZkdYZHdBUmFJdjBRZVVseHNmcHVUZlpFVE5ieW9Ra21jVnFkbEgtdmdoTmV6RE5fZ0E1dUJhcXN4RUlLdUlBOC14VkJGamtESlVIU2xLMFFOOUN2TG8yZVc3M2NnbjZkUGN1eWJFQlBnWXZZMGF1TlRzQ3NMZEotbUJ1dFVaaFlCT2F5RTd2elZveHJWQUZHOVF30gG6AUFVX3lxTE94eHFPa1MzdTlmRmdMWFNhcnR0VlNnVWQxTXNsc1lxeGpob25Na1l5RkVaU0dXQTJTV2hhenI3MDBieUhNY0hlM0lJb0VmZU44czRwQTdxUkFSN19xMWpxcEZKUF9aQmM2M2ZBOUNxVFNscVpXRVAycXMwbE12UEwxek5mLUNGMEdENjU5MUpZU3dWT0puVlBiTVpwdFhEQTFnZElydHBCcFFPcmc4ZFRud193SVJQY1Mydw?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
+     "title": "CloudSEK identifies Android malware operation targeting Indian bank customers",
+     "date": "2026-10-28",
+     "source": "Express Computer",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOTlmbDJsNHpReWNSVDJZbkVZdVhKclg1R3M0ZVM0UmpKbzk4enVla2ZfaElIUU5kQ1BGOHdOZU96V1htcEt3Vnp5RkcxUVVWc3hyMmp4Ung2Y0FBX0duVm9oX1BLZk5nRjc3alJTOVJoS2RSeV9XU1hSVE5ZLW1MX0Nrd1d3bEo1bTEtZkhlV1RQS0ltZzZyS1FDYTM3eVpRbmdLcVNFS01DNWF0YXptZjhaWXVTeS0yYy1zRVhkSnEteU0?oc=5",
+     "technique": "User Execution (malware)",
+     "attack": "T1204"
     }
    ]
   },
@@ -40,6 +40,14 @@
    "lat": 19.076,
    "lon": 72.8777,
    "incidents": [
+    {
+     "title": "Mumbai Cyber Fraud: Railway Technician Allegedly Loses ₹7.15 Lakh After ₹1 Credit; Retired Postman Loses",
+     "date": "2026-10-28",
+     "source": "Free Press Journal",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSnRSbW9BUlFaOFdYWmJTa0FlNXF6Yl9hUGEySjRwaEg5SHRna01IN24zbVNYaFJxNl9JRk5famhRT0VmdU5HZkVxd3JPVkhtbW1ZRVNXSTBHSl85dklzb3d1TzBza0ZYSEZCYXQ4WGgzNklCTnltYjg3WWJXSy00SFVaZUlwR0V3ZEpSeTlFQ2JIQ3lqd3hZLWtXSXgyMUNnbTBEUzk1NXI4THBxc214cWlfR08weWpXMmJ4ZU9uR0tpY3hMamdPTENZTGVyTEFIS0VEclYyRUxISFdYT2h1a3UzdzZWMEpjNWxF0gHwAUFVX3lxTE1feHl6Q0dmel9aU2V6RDN3SnBCNXA2cFE5bjE1TkN2UGdxMVlKV0IwVEZPMW9fQnIxRVB1cTM3Y0o4QTVLV210RUlsdmd1a3lodERXSW54ZDdmV3VHODRVLXJpdW5Rc2RZRURQVHphcndJRFdsblBxUktpU0hlLUFrQnVXRnlEbGhvejE0SFNwUDQ0eVJjRmF2NG5BOUNrMElvNG8yNWY5cVI2eG52NzdpbnlyWlQ1cUlrY2lXaDlTOUpPTjc2NGVPZTNBaUVHdlo2NkRyb3VTQmw4SjhPWHdVQzVsRGM3cG5jV3VuVzR4Rw?oc=5",
+     "technique": "Phishing",
+     "attack": "T1566"
+    },
     {
      "title": "Cyber Fraud Case: ED Arrests Alleged Lien-Fixer at Mumbai Airport",
      "date": "2026-10-28",
@@ -55,14 +63,6 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWF5bk5kS2l4enZXa2xHOUZ3cnZXRmdwTHVjNnNEWU1xTXJHQW9TZEdHOHlab3A3emVHUENLcDVCeDZrdG5qX2Fsbm9BbDIzQ3BSYllyM19NWWNCNnVtemJKTV9kV2pUYTdsYjFMREx3ZEpUMGMwRmJqQk0yTktZLTR4WWN0R2YtTVF6Q0liWFRPT1VqSE42Ul9LQXhXa1dwVHlabU5xOFJrb2lwNWNSUmUwSXgydw?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
-    },
-    {
-     "title": "Mumbai Cyber Fraud: 65-Year-Old Ghatkopar Advocate Duped Of ₹10.20 Lakh In Digital Arrest Scam; Case",
-     "date": "2026-10-27",
-     "source": "Free Press Journal",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVljWllqZGJTNEV6ZWxoUHAzM3ZzYk5nWGVTS0JwZHJaNVV2bjhobFA1Q2tUTjBZUEtSRk9mR1d1NjIxaUNEblZET1ViV21rOXJHSmZCNlFzMnpkb0dCRWkzWTI4UFdNOHBOVGZNUzBYZDRwTTFZbEg3bjd6TzdST29NRWxieEV5ZmNjdmswbExFTU9pVDh2emRqV1NnZjh1bEctSmZHblNjMk9yYmFvVHZoMmNyLXk4VzdWeFU5SGxIdlkzR01kMEpDSUptZ0VyNlpjbVJvNGNsZFlGWkJv0gHkAUFVX3lxTE1NUENSSW5VUEVRY2RHYzk3VUNESzRGYUoyeDVxa1RFRkhxS19lNTQta1RWYjhucm54QWs0a2FjSWRNeFdoMWNocW5WeEdOT2hqWllMSzkwcFdNZTJyU3FiM2Jwb01UOHZGQno3c0RhaXNJSHpHWEN6UWl3V21feVAydU9DRFFpU1RkNXR1czYtMHhWMlM4alpmbkZDTmRFMGVKeFRqWFJLLXlmY3otWlltaEkyVlA5bExibmMyVHUydjBtWjIwZmVIZjRGb2ZRSXJBV1BoWVdXSkxXMjVtYmQ0cEo2SQ?oc=5",
-     "technique": "Impersonation",
-     "attack": "T1656"
     }
    ]
   },
@@ -73,28 +73,28 @@
    "lon": -98,
    "incidents": [
     {
-     "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+     "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+     "date": "2026-10-29",
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
+    },
+    {
+     "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+     "date": "2026-10-28",
+     "source": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
+    },
+    {
+     "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
      "date": "2026-10-28",
      "source": "The Hacker News",
-     "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-     "technique": "Exploit Public-Facing Application",
-     "attack": "T1190"
-    },
-    {
-     "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-     "date": "2026-10-27",
-     "source": "BleepingComputer",
-     "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-     "technique": "Exploit Public-Facing Application",
-     "attack": "T1190"
-    },
-    {
-     "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-     "date": "2026-10-27",
-     "source": "The Hacker News",
-     "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-     "technique": "Exploit Public-Facing Application",
-     "attack": "T1190"
+     "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+     "technique": "Phishing",
+     "attack": "T1566"
     }
    ]
   },
@@ -105,28 +105,28 @@
    "lon": -2,
    "incidents": [
     {
+     "title": "NHS Tayside apology to patients after scientist's data breach",
+     "date": "2026-10-28",
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54M1V2TDd6bEhQaW0xMko3eGhua2hONjN1R3JkRV9HOG82RzhtdExsXzBxVVB5V2c5ZHo2azdHUjlZbmJqQ1VSdl9VTkU1YWdNYmdaYWNxd1gwMld3V3c?oc=5",
+     "technique": "Exfiltration (vector not disclosed)",
+     "attack": "T1041"
+    },
+    {
+     "title": "UK Police and fire services face urgent cybersecurity warning",
+     "date": "2026-10-28",
+     "source": "ADS Advance",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmpGREdzMkpsMUxyYTRvQ0dyT0U0UG43MkpKMk9sVEMyekU1UnRPQUJjVlluMk41RzNZZzV0ekU3cWQwMVJqT1EtTU53a0tEZUZjQm40aDlsM2J3ejJ4MTNyWi11cGFNVnhRMldnUTZZOFY2RzFONWJSbndOcV9RblFR?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
+    {
      "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
      "date": "2026-10-27",
      "source": "The Record from Recorded Future News",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEY1WHpiVm5yNklSYWpQV3M4YzBIT2J4RHJxdkR3QTRWbkFJOGY1YjI5SHdzNnJmMTVjaDd5RzZWajUwblpLM0tXR0FKV2tMdmx4TUswTnlOS29BZnA2MDdNRlZtVU5ZOFZJekVKeXI2RUlmRWM0eXRlTnlncUc2cjkzZVg?oc=5",
      "technique": "Exfiltration (vector not disclosed)",
      "attack": "T1041"
-    },
-    {
-     "title": "US, UK, and Germany target SafePay ransomware group",
-     "date": "2026-10-27",
-     "source": "Escudo Digital",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdjFnYW1WclpEQTVkcVpGZVhlV2trckh4ZWVLZFZtdTBoSFlxQVh5aDZNMHAyYVdHWXRxR0kwUFg4ZldBMkhWa1ZKNklLcVNQTGozLTlCeWtsVG9xb2NwZUNNcGNjR2FKRHJpOWtqLVpody1XUlUzaTFSRWRYN0M0S083VnphX001Wm5BOTlYeEFDMjVMbkJrMDd4LXFKek93UW5V?oc=5",
-     "technique": "Data Encrypted for Impact (ransomware)",
-     "attack": "T1486"
-    },
-    {
-     "title": "Police and fire services in UK issued urgent warning over 'significant' cyber attack threats",
-     "date": "2026-10-27",
-     "source": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONUJYZm5CblJ4eHJfSDlqTk1aUGxMaV9UYUVSbTJ2VWZuRmxtczVRbV9abHA0d1Ytek9zRnJmS2JzOXQ5ZWVHdTZ4czYtN3Qyc3N4cjgwcTd6TjVtMWx2eWxvVThoVEpnNnRXSFhxU3RkZTFOV1ZiOUFJaHpPRGI0YnMyTzlKZFl2VFRQcWlWZ0k?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
     }
    ]
   },
@@ -137,28 +137,28 @@
    "lon": 90,
    "incidents": [
     {
-     "title": "Was Russia behind the Jaguar Land Rover cyber attack?",
-     "date": "2026-10-28",
-     "source": "The Spectator",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUlQMENnR0E5aDBXS2lDUm96eTlLNkltX3I2WFpyRVh3dGVHOFQ3aldHWFgzandRMzlnT242SEF1dzZDNEN2Qzg0UnVRZ055ejJ4a016S0NBdGl2WGRtODlrWF9DUGJHNEJYWVlRRnBhYlhVQktkU0tlZDJYcDcyT0FHLWU0LXYycXZn?oc=5",
+     "title": "Belarus Hackers Wiped Data in First Russia-Tier Cyberattack on Europe, ESET Reports",
+     "date": "2026-10-29",
+     "source": "Tech Times",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFROclZ2VDgxdUotT0VoR3hQZzMtYmRnRy12TEJLZ3Mwdzh5Yml4dmdnQVpCa1o2a016LVljcjNEZ2xtcTAwc1I2SWo3OWVyRUw5a0NHQTRTVUdLSExDUHByRGFBWnZocGFoek1YMmlxLW9kb2VXRGxwNmFWZTdkZV9FR1FMaVJOdmlScUV1SDZjMmYwQUhVWldWY1lqQ0hrRjZGSjhGeEhmMlJka01uQ1pMeDd6cnBrNFFzUmpvY1VIWlBVTGUtVFRXUQ?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
     {
-     "title": "More than 14,500 Dahua cameras compromised by hackers in Ukraine and Russia",
+     "title": "Italy Investigates Alleged Links Between Pro-Russian Hackers and Violent Protests - Oj",
      "date": "2026-10-28",
-     "source": "Escudo Digital",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHA3Q3JtMjVXMDk1dlBJclZ1WE9GZG52SnMwYzQzekVBMnN4RUNVOC12V0xocTd6QUZkQ2VoWDR1Z1lxbkxMbnZxaU1fRlhFOUhGY09UanNhSUtRMGd5M3B3bDFrQk1aRkFMbVF4bHhmVWluWHQyNzBKeGE0d08wNGJoT21LZ0YzVWVhOWdVNTNYckRuT2dpUVRqUDdSLXJSU3RiRzRnVmszVXlWamNVUWg1UjVCVDlfV1F0OTdJOGJueWVr?oc=5",
+     "source": "Odessa Journal",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTnlWci03N3pWTTM5a2dzLUt3aGRWa2F1a01qX3lKSkFDVG84bFhfUnQtU05nZGQwSHIteDBWR2FQcUpFSVN5WE83aU9aejNaZ3RuWnQyUXEtWTRRci0tZm1IcWQ0ZVFXS09qTGFOYjhHeENENTROVjFvZUVuQTFkRGp6S0xFZUthMVp4dEVlY2tyUnZIVDdtbHlWMkJGZ3NBVEZ3TURoTXI?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
     {
-     "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-     "date": "2026-10-27",
-     "source": "The Hacker News",
-     "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-     "technique": "User Execution (malware)",
-     "attack": "T1204"
+     "title": "Pro-Russian hackers caused disruptions at critical infrastructure sites in NATO countries — Bloomberg",
+     "date": "2026-10-28",
+     "source": "UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFkwOWJCSndjSTdYY1BVaHp6RXhfbEN1ZzR4N0lqS2xNWWpqdFlDLUZSVF9zb0lyazk5cnVMNEFHREc4ZXZUeUxzWlhBbXZkMFQtTzdGS0ZFV182TDBqWmNTV2NyMG1jUUJrdWN1dXFyeHBqRlNCcEllOXRibXF6a0FORFBmejh3SUxOYjlzbE1VdWhXRFM1MldPYUg1N2E5VElMYURzZjFKUmlYWmV3ZWZKeGZyMW0tNWI0LWhkM1dDbDFs?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
     }
    ]
   },
@@ -169,28 +169,28 @@
    "lon": 104,
    "incidents": [
     {
-     "title": "Two key suspects, including the head of voice phishing, who were based in China, were arrested by po..",
+     "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
      "date": "2026-10-28",
-     "source": "매일경제",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WTzJ6aTZCaElxX2k0LWRzdmRVSkhxdFpncEYxa2owbU5IYmljaHVNRFRKN1ZJWm9MbTQ1X2pZOUpNUkZ1dDZvbU56THptZHFyZ2c?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
     },
     {
-     "title": "Police Arrest Voice Phishing Ringleader, Malware Supplier in China-Based Operation",
+     "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
      "date": "2026-10-28",
-     "source": "Seoul Economic Daily",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFBjclY1eWcxalJodWpiZnlOUGZTOXVxN3BqdEQwcm5CZmE2bHNNVTNWMkVWaGtWUVRvMk1jZS1mWnNSUGRTSnV2T0gyTWJDdGY1cjkxajlwZE1jeE5sNG95RFFIZ0RPYjFXNDFxS0lWSVp3Q2piTFFiM2UzQVBMa1d0c1pLSXdaUUhJdlRxdG9NZEt1NWQ2MVVLTGMwS1ppWTBR?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
     },
     {
-     "title": "China-linked Warlock ransomware group targets global infrastructure",
-     "date": "2026-10-27",
-     "source": "SC Media",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRElveHpqS1JFcWlNdUtlVDVsV200VmNZN1pZQ0JPNVdINnFDRHBPUkZKeXlFc1Nadkk0MEQ1YlgzemphV1JWQTNGcTZBa3hjRWZ0RE1nVGhHM19qZG53bXEtdVNvZjZoV3hWSnRaeTFoQ3lzVWNfTlo3RGx6T3Vqa05Kd2k2MG5zcG5fNG9vNkh1eGRIbm9LLXhaNFl1Zw?oc=5",
-     "technique": "Data Encrypted for Impact (ransomware)",
-     "attack": "T1486"
+     "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+     "date": "2026-10-28",
+     "source": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
     }
    ]
   },
@@ -215,14 +215,6 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hS1JYVHFDaGFMOEhDZE9mbW9yVTdrX2dmWGhGSF9TdWItUnFaVGI0Vm9rNDktWjdCWC1fNDdGNFdfR0xhMnVsaXgyaFV3X29RbG1zcFh4NE1qVzFnS1pMOFR1Mk5LTGR0RmhMaFoydWxLdFQxQkFpSjFHcGM?oc=5",
      "technique": "Exfiltration (vector not disclosed)",
      "attack": "T1041"
-    },
-    {
-     "title": "Google defends Android developer verification in Brazil, cites malware risks",
-     "date": "2026-10-15",
-     "source": "MLex",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSWxzT19VVF9XMC1DM1hkZ0toM2tQR2w3UFZJUzZUd0ZYMXNEdXVvSHdsdkk4N3VmMzFLRGVmbkVnaVJhdnJnQ2RWTTRUYXdraEF2aS1kVHZSaTZEMGtnWWh6STluWk9BT1I5bGdjZFRCaUNZUUJjZUZhREVUMDh6dGdfQ25xUWFhNVl2aXVWYlRpWEpRdks5aGZoTlFvdU9melM5QmJILXhJWTJnY1czOUhTanItYTBHNEHSAVpBVV95cUxNSVNMM1NwMzM4NDJTYTl4WFJ2SmhTck0xSm5WZFZxdE5yeW5zOW9GUEpPYVpQTTdzemJsaWR2dXdxR0drYmZLZm9XZFNnMm1RUTR4STk2RG1JS3c?oc=5",
-     "technique": "User Execution (malware)",
-     "attack": "T1204"
     }
    ]
   },
@@ -232,6 +224,14 @@
    "lat": 51,
    "lon": 10,
    "incidents": [
+    {
+     "title": "345,000 email addresses stolen in cyberattack on Germany’s far-right party AfD",
+     "date": "2026-10-28",
+     "source": "Help Net Security",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51WWRZUGRTYzVkWnVMOTUyVDhtNWwwdlk1cGJVZjFOMGs2VWhYTlZ3Z2MyRktXdE5Vc1dJel9LZEItemNmYzlKM3ZQNFVWNU1fTUtxMnBxMG9ZSktPNWZmdXgtNDFUejkzSkNjS0VlN0xJb2hadDdDR253?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
     {
      "title": "US, UK, and Germany target SafePay ransomware group",
      "date": "2026-10-27",
@@ -247,14 +247,6 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUGRIQjVaWmQyOVZDdDlUczAxQ1kyQmdZV1phbjBwTWJlTXcwQXRGWVpMQ1lfWDJKc2pIQnEwZzR5cFFHZTY1a0FhRTlBa2N6cF9IQm8tNFNrZlc1V3VMdjF0bjItM0pPNTN6U0p5VlVfbDBwUnlDNTVsWVZSTTZNREplZnRaSUFnRVdrd29ONlpCSmtJVTl3RU80YkliZ2pZcU1QNlo1YnZTMGNNZDNIblNLaGo?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
-    },
-    {
-     "title": "Hacked Docs Reveal How Germany’s Far-Right AfD Has Been Courting Trump",
-     "date": "2026-10-23",
-     "source": "The New Republic",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVGp2MGlLY2JNa1Z4QjVGeTBDcGlsa19FWk5wdW95N3R2TFYwSFc2cExVakR3c3JzcjVkNFlrLVFsRXZ3VlZSS0lyX29zLU1Cb0ZCdkp4aXlLazUtX1FGTk9HQzFrWVBPNHhPeHpvYXdtRzlmWU1VN3pWOEtEWEZCZQ?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
     }
    ]
   },
@@ -265,18 +257,18 @@
    "lon": 134,
    "incidents": [
     {
-     "title": "Australia severs criminal access to 180,000 computers after breaching Amadey malware backend",
+     "title": "RMS data breach fuels phishing campaign targeting Australian hotel guests",
      "date": "2026-10-28",
-     "source": "news.lavx.hu",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGw3NElzaXhCSWRhb2RNZ1c0THBBMEtYYzVYSzlRY2Q1amRnX3FGcGtYVlNNYUR5dGQ4dk9fc2w5WTFDZWpsU290WlFiejBkb29IWmdQNVVzdUcycGhMRVEzQ2xWM3JGWE9LdUVMSzBoUjh0dnRvamJiZWhzTThOMzV5YnpzdF96NGhmUnAtNkdKYTN1Y2NHLTI0ZHhNSUJSal94LUFFZ19vbXBYWE9NWDlkTmVEdVA5UHpUUURR?oc=5",
-     "technique": "User Execution (malware)",
-     "attack": "T1204"
+     "source": "Traders Union",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnlLZUh0RHdvVmNVeTNZVGU1WlJJQlV2a2xGanV1TmtYTDFMRV9MbUg0dW5hcFlQUDVjRUtLcXJscDZNTGFHSWMwSFlrM19JOVRzSjNIZ3BpZ2RCSEQxRTFqUmZfNjdyd1VyVlJOS1NTRHEzWUtwbVpSSjRJd21vQTJpb2JOSkI2Zkhia3ZR?oc=5",
+     "technique": "Phishing",
+     "attack": "T1566"
     },
     {
-     "title": "Email scam sweeping Australia right now",
-     "date": "2026-10-27",
-     "source": "Escape Australia",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVTdzQzR0Mm9BdGMybkZrbjBCR2xGOUx4QldaRzRCZjJOSVdsdzdHaXJ1RUpEX2NEQ1ZyWmwyRWJERUF2NDJ4YVJPeEJ3bmpHTkxnYW53bEJsSkVqck8yRENrRE1EMWdMa0V1RjhOVUVmOERhNEJXS3gtaG9TWUVlX2hWbk9PSE9CcGpkUTBuTW9EMjdfWjlqZWtlMEI5N1V3RUFOWXhiN05YOERFR2Z3emRLNm5TOGNVYnk4aVh5dVBnd9IBxwFBVV95cUxQMm5pN3ZwVkV1R0ZZYmo2Q1dhRkhpQy1oODJWR2tkWmk2cHQ4bklUMGd4LVJoZ21JZmlrVGw2c3FfejRqTHBjLWN3THlkOVlZRjdtaUlNRVZMajNkYi12eV91VUd5bWVpanpUNGtDQWlzbXBTcGVfNVFfSUw5ZElmUlJHXzFWcVFXNXV5N2ZlYTlaa0R1UlNtRmhJVy12S0d5MWxPQWlwZkVzTVB5THhDajVwRk5na1I2UUVMb2ZCQ0ZpNTBLaUc4?oc=5",
+     "title": "Australian travellers targeted in sophisticated hotel booking scam after RMS Cloud cyberattack",
+     "date": "2026-10-28",
+     "source": "7NEWS",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUjBZbEN6cXRhem82MEVydDcyUUlRTzFiZ0VaM2VjX1pzaUhDNTlMeUlfdU9FT0FVUFdhRmhaR082akl2MDhsZHY5SFQyZmJ0ekctQzFYODlWMDItZUdFdjVRSzlDMmFKSHlMVEt3S1RsY29hbFg1aHhwN1c1LTJOQldDbXFyRDdxYWVzR3ktRFpfeDVURWw2MjBiSm00c3hMZldYWlN1ajZZS3cwSnFaZ3Q2NkRqeG5OdkVfN21YSHRocGMxRnZ0TlZneHRNQdIB0wFBVV95cUxOZ0EyLUQtX3A1Mk4xbzJzM3NuM1NJeGNGYWlKWm5pOENkZERPZkNFVjhPb0VSampwRHVSS2V6ajBVNDB0czZLR21ZU1I0ZGFGQndmdW5WalpsSF94Tk1GTmYyS3dhdHNGbFpYdVhWOWpqZTVCNHFiWGQ2QmkxSV8yeUotdFJkUDlqaWVTOXFZRnBZMDAwWjZ6WS1tS2l3ZkpnUDZORFB3VEUtay1XRm5HYUNnRlZOR1k3UjZpeWl1WFVWSXlHS3ZEWmRwTXNpbFhDQmxn?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
     },
