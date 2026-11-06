@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-06",
  "note": "Auto-collected from public news RSS (last 14 days). Summaries and ATT&CK IDs by Gemini — best-fit mappings of the public reports, not attributions.",
  "places": [
   {
@@ -9,26 +9,26 @@
    "lon": 79,
    "incidents": [
     {
-     "title": "Is your Tata car at risk? Hackers may target iRA app, CERT-In warns",
-     "date": "2026-11-05",
-     "source": "India Today",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmoxcVJyZXlIdHhOSlJqWEdVMGd1OUx0Wkhlc0h3ZkJVZkNkNk1teG1VMEFwVmExTVpFd0dIUUNvMXlnendJS28zZkE0NVVjS0h0WE9aSGNCaGhFQUpta1Jta3doS2dLUlNmLTAtemoyck9XY2VEeld3RHZ5MW5QS3NxTUpxY1dlYzY3WlZGc0pkOEIyV2JyYWRxNndRR2R3UGZKS3ZXT2lVNE94bHhrUUkxU2lKUTJZVmVmejlhOThwQXBfX3A1ck90TUPSAdIBQVVfeXFMUFBHMmtENW5Hd0NMdXFhVUdQVEZFTFlySmdHeHFoRmZGRXZVcFlHMFR0TlF3QTY4X09zeFZ5bUdXZndTd2Z2cnZqXzc5V1dJbE5ESmlwMXM4X25laFlOdGZsQnV6YWUxQS1ZdDBmY3JoazNzTEdwbW9zRVhWcVdPam1QVGxOZnA2WHpmQzYzelNvWDdwcllaaWs3cGd3VWVPX1JObDM4dDEzaHc5aVhRRHpqbXRGcjhZN21qSkhDcldRcnpqOTV4b0N2NEpYaFptZlNR?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
+     "title": "ED arrests two in ₹400-crore cyber fraud network, finds 600 cyber complaints | India News",
+     "date": "2026-11-06",
+     "source": "Hindustan Times",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOem5BcVdpWk5lNXd4WFFBWmR1UUZMUC1fa1dWdEVwWHV6REhxWDRsWWxuR2JzSDFBQWJEeHlzTU9DNEs0eFAxQkVEdnBjdTVxV0ZUSnVDVWpyN1M0QThZM0l3c1NOV3BSM291VDVkSUp1aC1KTHNwZHFRSUhHNVNIYXJ4b0xBbGxGYXVpQUcyRHVBR0dFem9jcDNhXzdBUy1pZVdRb1ZZSkNXaTNQbDNWdHNTNk95dWNacFB2bjcwbkxVYUNxcnZRTnJDanlWcll0N1Fz0gHYAUFVX3lxTFA1N0w1dDh4ZkV3Rm41aENfRGNGQ2NrSWpYVTFqUm8xZGdrb3lGelJ1T2ZQcXFtUHduc3NQR2hhdHJRbURTd0JiWVJ2MzVEakVoNnZ6cjJGT0Fsb2szT3hBX0d1bl84ZTh6UXNhSC02YTRDR2l1WEU2VlJ5MGhJQzY5QVlURDNSSFRndjRHdjFBc21ZQ3JsRm1vbXdUYl9iczdBQVFhZ0JCN2laaFRybkw2RjA3M1B4enpncWEyY1FkTXZaLWlmSkZtaEFFNndOVUJJZXFsdVd2bQ?oc=5",
+     "technique": "Phishing",
+     "attack": "T1566"
     },
     {
-     "title": "India’s CERT-In Warns of AI Hackers Targeting Crypto Exchanges",
+     "title": "India’s ED Arrests Two in ₹400 Crore Cyber Fraud Probe Involving USDT",
      "date": "2026-11-05",
      "source": "The Crypto Times",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR29RbmxFZVVLRnpRRVNFNHl3bUhVOHBzelFwektUS2hTWG1QckRpQ1F2SWVLd3dCR2x1cjJJel9lWUdxNVZCbzZHRnRINUhKajZPbml3WE1DUHZXR0FVa0VWNFp5SzVVQ3dUVk5zZ2ktMGFiY3g0dDE4RlVoZGtTemJ6S0VmQ09YNjdZZ3N5cDVCeWlFOEI1el84MVpMZkE5a0E?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXdQR08zbktrd2FuQk5uX3RtbE1mMlhuZnQ4RlVabVNLTXVIbUwzMWZaQWZQY1pEU1RiMGFsQzFCTlotMktVYjVJWXNFVEpVOG5WdzVVMlBLbHVpVXRBTE9KMU41VzR5czF5MV9TeGpBOE1yR09aM0tkc2w2eTYzXzJaUWNieGVjT0FaR3k1MndkeC1zekk1SXhzQkNIWjFBZ3gtUzRER3A1S3FDUU1KZ1ppa0tXZw?oc=5",
+     "technique": "Phishing",
+     "attack": "T1566"
     },
     {
-     "title": "AI hackers use ₹1 test transactions to move bigger sums from financial firms: CERT-In warns",
+     "title": "India warns AI-assisted hackers are stealing crypto wallet keys",
      "date": "2026-11-05",
-     "source": "Business Today",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU3hPUHI1elhZYUl3SGpVblUwc3dwQzRGb1R0Y3o0RG5IWnVnSGZnSmhYTVNaQ3Q2MFFnMHhWSlBObGQ2cFVhUDZxR2RuUHJYS2o5WlU5WGdOYXdmY05VUVFsY1Vyekhpb2lHb3JZWUhVcmRNTVFZckNhTVhIbWNmQ1BfbVBuMjFlc3dVUThCbUdVclR6X3ZpNllCalFUQmlhYktFY0hMMHoyZjNzd3Nqelp3MG9SQTgzbkp4MjNfU1ZzTzVHZVRPaU55UjlCQTZaZ0VKa0pIT2tnd1VqTm5ETWRIZ0RGYVN4Q1NUc09KZTJkZ9IB9wFBVV95cUxQT3dMR2RtbW80Qy03LWhIRHNqX0t2RlkzWE1Pd2R2clNKcGlBaHJwYVBWMXJXQ3JlRFplN1dnaG4ydV90Z2ZrdVN2eHg1Z2w4c0NTY0R4SGUtNWpoUnJOeGtZOFk5VGs1RnNOd2s5QVRJV0FuLW1NMV81XzVtQlc3blBiV2JDb3FxdVllMkNqcjAtOXFmLUxhdFNtZlNUUEhXd2lsbV8tazV6Vmx1dE9BT0VpV3VHM204dmVCa3IyN2dDUUE1OUFmYXZtQlRGX2lmR1BkdG9JSEhhYVRySTFRNjJoZEdaMHpRRG1DZGJxVTBvWkhtREpr?oc=5",
+     "source": "CryptoSlate",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGdTNlFXdlhOOENZeXpjUUpNZ09iWkNHaUlFSzN6VmZFN0o0czY0bmV4d3ZWWktHbktjX1Nsb1VGSVJWb2FCbDNOMG1zRi16NlFaaUtVRkNnVFNrWnN3b19GR3ltbHRZMFJPYU40RXpPRnV1alNOOWRadTdyS1RCUE1lZzJIdWlJV1pvZnoyaV9NQQ?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     }
@@ -57,10 +57,10 @@
      "attack": "T1566"
     },
     {
-     "title": "Chandigarh court denies bail to Maharashtra man in ₹77 lakh cyber fraud case | Hindustan Times",
-     "date": "2026-11-05",
-     "source": "Hindustan Times",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGRlOGlXbDA5WGM1clVmRkY5ejI2MUNfdm1vRDQ5R1JZOVoyMEx6SnU1V1JYaVNLSHh1V2JIc2wtWDJZdTJCLXdUZlkxWTVwZlZ5S1VBc3BETW1RY1c0Qm9pSHNld2VCd3JsenNqeExNbDY4QjNMODhTcnUyX2hJazRUR1ZPanAxSEhTWml4NlFIdzVFVFlUVXZ3VW12YXdBV1BURllzUmFWODZSdDRSbjRpdU00U3AtaVhqSklROV9VWmVPYjdCT1QyaWpvcnNncGNidUJETlpOT2REMFBQRG55QVbSAeoBQVVfeXFMTkJuT0Z6VndwQTc1NDN1UkRMWUJyd0V6NDR4Q29sOGVDV0doQmlIcWVJY0V4Ry1weUdkSUVfbGNoQ1dwR3RhWnQydmdqVndXSXc4c2dEdnFPeHhyem9DT3lUMFJXLXpjZnNWazBFdmVpM1NLc1Rjb3ZsNkdUbzA5bFZqb0VybFVFTXhJZGlwZ1JLcHZkNHYtU2wxaWRxUFZoWE9jU2F1dHJzNWt5N2FOQlhicFUwZnhob2pyYXRVWDRPZ0NuYkR5enVWQ1I4dE92VEplQ01nWmVjTXhBdHI0U2VZb3V0bXcyQWZR?oc=5",
+     "title": "Mumbai Police Uncover Widespread Cyber Fraud Network",
+     "date": "2026-11-04",
+     "source": "Rediff",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR3V5SVZ2VHFGRkxRRklZYlZoUkpQcEdqc1dIbmVTNWN4dDlSN2cwZ240OTNtWk04SW9BMUNNQ2YtRkhtazJFQ1MwNl8xZUk4OU9wVzlFcHNCR2ZsRFZabk1aY2lISThPVzRSX3BuYnI4LWgwU2k4ZlY1SlR0TjRyWGxZdzBteUJ2dFVXQUd0ZlFXbWh3dlVEdE5uX2RtVVZ6MG1zbUdHNTlkSHZUWXRrNHA2eEp3a1nSAboBQVVfeXFMT1JpRU1uZ0ZxQkxETTVUVnM0MVNsQUhrQkt5dG84cGt6aWNfaUVTcDExak0wNlV0VHJ6a1htWXVseDVXNTJ1eC13clJ4SGRoV2FPdzFUSENXVUJkNUxTY0EtNU9tdTgwdkQ1SVlhWTF0MHZBOEx4R3ctTF9CaTNzZHhvYlFiQXpNdHVlTHQ4Z19rU3p5VWJSY0drUWZxRkd2WTJGWERSUndlNGI5cUh6WHpRNDhUM0NLRUlB?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
     }
@@ -73,26 +73,26 @@
    "lon": -98,
    "incidents": [
     {
-     "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-     "date": "2026-11-05",
-     "source": "The Hacker News",
-     "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-     "technique": "Exploit Public-Facing Application",
-     "attack": "T1190"
-    },
-    {
-     "title": "US charges two Canadians accused of hacking US universities",
-     "date": "2026-11-04",
+     "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+     "date": "2026-11-06",
      "source": "BleepingComputer",
-     "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+     "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
     {
-     "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-     "date": "2026-11-04",
-     "source": "BleepingComputer",
-     "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+     "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+     "date": "2026-11-05",
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
+    },
+    {
+     "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+     "date": "2026-11-05",
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
      "technique": "Exploit Public-Facing Application",
      "attack": "T1190"
     }
@@ -105,7 +105,7 @@
    "lon": -2,
    "incidents": [
     {
-     "title": "AI-Assisted Ransomware Hits UK Schools at 3AM [2026]",
+     "title": "AI-Assisted Ransomware Hits UK Schools: 37 Machines [2026]",
      "date": "2026-11-05",
      "source": "https://tech-insider.org/",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1Y2ekZXQWhTUFZYT3Y3VWtJUnJQbmIycTU5a1JpcE52U0p3OG1lejZSdElLZnYwbXVhclhYZS1CTFVuQ0lmbXY0Q0txcmh0eWc2Y0VPM3dSRzEyaXp6RHg0dWJVRUgtUEV1bmxuVXNTd1RxaVptdFhqTHV1Q2RjYTdVeXA3emtVZWdvTDlMSQ?oc=5",
@@ -137,28 +137,28 @@
    "lon": 90,
    "incidents": [
     {
+     "title": "Russia-Linked Hackers Target iOS and Android Users in Espionage Campaign",
+     "date": "2026-11-05",
+     "source": "Android Headlines",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWhoOVA5MHJScnZBVm1Rekl5WlpNeFBtSVhxczRsSndFNXFXa2JwSFZrams5UHg3b3MweGYwOHM0QlhWcWhNYUNoNDVfVTZ0THpzZWYwbmpuUTYzbjZOVlYtNThHYWtjQ2hQRHhhZEJHRjBHLUtnU29BYUxBVU9nTHZFTFdyVExERnE4cUhUN1NEUU1KUnVsc1paMF92Q2dxdGpwQUJXMWlES09RekRheXJrdTZRM2FYVEE?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
+    {
+     "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
+     "date": "2026-11-05",
+     "source": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DM3FDQy0xRzZ3cnVfMUlublFrZ0RzQnZLYWYwOE40NWJzMVA5eHhONHNBQjFYWHlrWUI4cmdIc0pCUFRBYThuaGdNUzBEMkxyTGdTdGFQMmx4emRkNGRQZ0dENDRHWDFOQzRIMkFCaw?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
+    {
      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
      "date": "2026-11-04",
      "source": "The Hacker News",
      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
      "technique": "Supply Chain Compromise",
      "attack": "T1195"
-    },
-    {
-     "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-     "date": "2026-11-04",
-     "source": "BleepingComputer",
-     "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-     "technique": "Impersonation",
-     "attack": "T1656"
-    },
-    {
-     "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-     "date": "2026-11-04",
-     "source": "The Hacker News",
-     "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
     }
    ]
   },
@@ -169,12 +169,20 @@
    "lon": 104,
    "incidents": [
     {
-     "title": "China denies cyberattack allegations",
+     "title": "Hackers used China-linked AI tools to steal from Indian financial firms",
      "date": "2026-11-05",
-     "source": "FBC News",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CQWY1cjUyVEJWbzIxVmFhTzNPdGpCWHB1cGEtMGpfY2pfNGgtNjM4Wm95eWRyb2h0NVVGalZYek95WjRhd2lmOEtueWtmUWd0Z05teFlKWUpxbXo4UHd2WGhaVmJTbENxaGsyNjk0MkdsMHFkR3VBQg?oc=5",
+     "source": "The Hindu",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1dsLVNZbVlkaEdNRW1KT2Z6V3J5MTdVdi1BaUN5ZnM4ZHRrOXBSUG5KTVNsUFN4SGZtV28wZERpYkRxa21HLV93bnhDXzlpLWUxTldSNU4yV2wtRzBfU0FSNWE0Z1M2SEltMmQyMWFuQkIxT2w1TE1ITkRPeWE1WndzTUhCcTIwcEFqeVlBUEZMemRJeXd4RTFQTk9DTGNtZ015bk10R2l1NGFMMlNuZUVHTDQxMi1XM3kwSjdiNC05aDVuR29jb3J30gHQAUFVX3lxTE5fWW5EbmdwbU9vOW9laWl2dmFiajJpU2w3aGQ4XzB5eXF1UzJFU19UTDlIWlZGb25vWklwTGM0elhIdGJKOEtQWkJXZjBsV0FCamloQW05YUt2c1pnNnV6enpUT1VVajU1SVBhbXRkZGhha0hCNjE3UWt6SE9YYXlmcVE5UkVqV3hHTUZiMzVsclJRYUw4Ylk3ay1iYmQ4V0tBWmJrSy1RMXR3XzRGMVZ3UndZcHVmeEgyd3NmOWRpV09DYVRDMmxBQUdTdmh5LXo?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
+    },
+    {
+     "title": "China-Aligned Hackers Hijack Popular Sogou Keyboard Software to Secretly Install DarkVigil Malware",
+     "date": "2026-11-05",
+     "source": "GBHackers News",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EdUJWOFcxRHVnTmRPUXU3Z09ZNGxONkxMdzl0YTk1QXR0dEwwS1lJQWRwWTFPUHlxV1RtYzhrMmRNbFVlY3ItR3ZTdDIwazFBMnNSQWU0QU9DZTdGSUHSAWNBVV95cUxPMG5UZ1VJa3psenRFVmpKa2tTbklPZ04yempjM0Q5c1dIUEstN1d0N2NXbkRTcmxpbllNbnFScFF4aFA3QnM4cVFWMHNMRjVDS0loYVRqajdoSW9CLVBxWHUzY00?oc=5",
+     "technique": "User Execution (malware)",
+     "attack": "T1204"
     },
     {
      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
@@ -183,14 +191,6 @@
      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
-    },
-    {
-     "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-     "date": "2026-11-04",
-     "source": "The Hacker News",
-     "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-     "technique": "User Execution (malware)",
-     "attack": "T1204"
     }
    ]
   },
@@ -252,7 +252,7 @@
      "title": "Germany Warns Lawmakers Their iPhones May Have Been Hacked With Spyware",
      "date": "2026-11-03",
      "source": "Mezha",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MUzlhQU1HNDBjZTdrYlEyNThHTlFRaVlKeTdNR1kwQnhKemRkOWNhQTN0cGwtbDJZcndrTE1YMWV2ekl2RjdlZ0RGTW9HbWZtVzBoMmxnYTE5aGVLMlI0d2FZdkZUNVlQMUdGQ0pfTFdkS0piVk9KckNfTE52QdIBfkFVX3lxTE1MUzlhQU1HNDBjZTdrYlEyNThHTlFRaVlKeTdNR1kwQnhKemRkOWNhQTN0cGwtbDJZcndrTE1YMWV2ekl2RjdlZ0RGTW9HbWZtVzBoMmxnYTE5aGVLMlI0d2FZdkZUNVlQMUdGQ0pfTFdkS0piVk9KckNfTE52QQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjRVRCYTVScm42blBLdnlhYW9ublFFb2k0X1ZjcUREaHRyUm5xWEpIS3pvdVlVNnhJSkFXVmluQ3hMVnNRUGFXWWpKMFZ1dTBuNmJiUzVwREd0SXVBVWVqaUpRWlRCU1k1aEkyT3IzQnJUZHI4RC1HVNIBfkFVX3lxTE1MUzlhQU1HNDBjZTdrYlEyNThHTlFRaVlKeTdNR1kwQnhKemRkOWNhQTN0cGwtbDJZcndrTE1YMWV2ekl2RjdlZ0RGTW9HbWZtVzBoMmxnYTE5aGVLMlI0d2FZdkZUNVlQMUdGQ0pfTFdkS0piVk9KckNfTE52QQ?oc=5",
      "technique": "User Execution (malware)",
      "attack": "T1204"
     }
@@ -264,14 +264,6 @@
    "lat": -25,
    "lon": 134,
    "incidents": [
-    {
-     "title": "Exclusive: Dozens of Australian hotels potentially impacted by alleged IHG Hotels & Resorts breach",
-     "date": "2026-11-04",
-     "source": "Cyber Daily",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaDdPWVpNSDItVk90aXYxNnk3Z3dhNjctR0ZTV3dVUXpiWDZwQzg3Y0JFWEVJS1ZSbFVzUTFjaTgtYi1xZ1pLbU81UmcxOUIyNDk2dS1tTnY1Q0RGQWtSQ3J2RExRTTU0T2g3cU0zeTFSQVpvbUJDWGRjQVJhVFNtQ21NaVVkamNIVFNuRE5uYTZZeUZkeXlUdGs2TWc5R3ZoVW4xTnZIUnZDTkhyeFRzQnoxWW14ajMwSEhqdmJxSmlfWmRoYnZPcWh1UXpkQTJCRFE?oc=5",
-     "technique": "Exfiltration (vector not disclosed)",
-     "attack": "T1041"
-    },
     {
      "title": "Holidaymaker alert: Hackers target legitimate bookings across Australia",
      "date": "2026-11-04",
@@ -287,6 +279,14 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2dTQ28yU2FEOG14eGNpY2tYRzZIMlRaaHhTSk5SS24yU2tDNGRlc0oxNDJuUXJ1ZlZPdkVVaDJBNng0T3RIa2VwaUJZUnQtMG1ZbE1Gb1VqSkVHMm9TVFJ0QkF4R3FHY3lzbDUyRktkM1pUMEtka0plYm1STUlMMnlmcVJjbGlFXzlMdjFOVzVQc1cyVGpDdEVqR2JIYmxsQ1Rjc3dkQ0ZPRDZxb0x3?oc=5",
      "technique": "Network Denial of Service",
      "attack": "T1498"
+    },
+    {
+     "title": "UK hit by supermarket freezer cyber attack, Australia's Under 16 social media ban challenged",
+     "date": "2026-11-03",
+     "source": "Tech Digest",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOby1nTHdxUnI1cWNTV215NXZYYWFHeG9JM3htRVJHcUZrS05INlgtUjhDalltZ2NPb3Zta2FOTkFGd0N0VUNSTkVTVlVMTWpzdHZocTdOQm5wbFRLcG5OYVIybUo0TjVjbFFYbG5YakdvMzdsNUxVakN5Z210N1ppVnhwbGRQYm8zcjJkVXFMZHNwRzZ0aUtLVUFjbkFRUzE1dG1PalRBd0c4NzBRcG1UVEYxcWNlUUdRSk1NZlBXaFBPTkwxei1tTg?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
     }
    ]
   }
