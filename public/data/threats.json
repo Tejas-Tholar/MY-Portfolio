@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "note": "Auto-collected from public news RSS (last 14 days). Summaries and ATT&CK IDs by Gemini — best-fit mappings of the public reports, not attributions.",
  "places": [
   {
@@ -9,28 +9,28 @@
    "lon": 79,
    "incidents": [
     {
-     "title": "Ransomware Without Data Theft Can Still Trigger Mandatory Breach Reporting Under India’s DPDP Law: K7 CyberSecurity",
-     "date": "2026-11-12",
-     "source": "CXOToday.com",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNREI1LTBiV0tGNVFBOHlBUjhtbVBHUDhoaHBGMk9uanliZ1c2d1ZaaHp1dFV0LXhxN0FfeXJPblF1c0ZhX2pQT19faUlUSzZ6ZEhKY2dYNXB5MnNIS3lLUmRJeVVxR0Rjc2FPZHU0SkRsS2hzTzY0TzU3ZzFobVExOXNKdjlubFZLTGhfQTlJRXJlRzIzbVhZY1VReTNkU3gwUk9kaHlxVDVWc2lMX1ZoRlo0X0JxTmFFNlpaRm5uZ1ZPRDVvb044TnFqQWtJYjRTUGYtZmJtMmZNbnRlRm12VEtTaw?oc=5",
-     "technique": "Data Encrypted for Impact (ransomware)",
-     "attack": "T1486"
+     "title": "How hackers took control of supermarket fridges across Europe, and what it means for India’s cold chain",
+     "date": "2026-11-14",
+     "source": "The Indian Express",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRE5Wc3FxNk5lU1VxYUx6TnF6NnBzOGVTSTVOU2kxUnhiQTZqSTlWVFBFMHBnNTBVZjBUZVZlMWxNZjR0TEh4UTdvSGFfV21JZlMxSjRYSHM3SkJCMVpkcTlzdXQyWG5pUm5oeVVsQkJUb2tLbW8zT0NPMDA4Tm1yaWxUcUhHOTlIRl8xNGM5Ml9uMkE4UTgzaXJsTHFkOTdORHZaQl9lOTRVN0ZvQlFTYVdPdnA5aHgxa0J1UNIBwwFBVV95cUxNZFpqejlsSUtjbHBITjkwYVNWZXFpT1BQQXhmY2s4REpFT1NaWTVlZlNUVThldndGMlRHYkZ0dUFpbHdmMkkwX2liSFdJVG9nZ25UTV84MUwtVzJzdkhyNXhlQ2lVcXJOR3h1ajBXdGRLYkFkWU1jcEE0SkVTLUhUSTk2SUZQYThEWnRTMUdwMkM2VTc4emczUExoUG4ySmFteEx4MWR0elNZNC1ZT2ZLR25ESXMyN2tpcGd2akg2Y2ltZnc?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
     },
     {
-     "title": "Local Malware Threats on Indian SMB Devices and USB Drives Surge 78% : Kaspersky H1 2026 Report",
-     "date": "2026-11-12",
-     "source": "CXOToday.com",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV05SVUhta2xMMXlkN3ZyMk96bHZjeTF2VkVnMVFPb2xrd1ExSlZ5b1VoUWV2ZlNGRDBtOGV3X0UzRm1jMkJidGlSaUs0dDBsRFAzaTluRTctdkstVmRQZ2otRXlMZ3VPUVBMSTFNR1VaRUtuT3pTWk9ESHdvX3BldUtjSEZ4X0dqM1FCczdJb0ZrQjZxXzhqV0p6a1FqcHZQV29zcWxCaDdaRXhpUlVIa3JOc3AyTEpSQ1hxYUxTb2c4OTQ5OExR?oc=5",
-     "technique": "User Execution (malware)",
-     "attack": "T1204"
+     "title": "Explained: How AI-driven hackers are exploiting India's financial plumbing to steal money",
+     "date": "2026-11-14",
+     "source": "bfsi.economictimes.indiatimes.com",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQU9qUWxqOWsybGh6dThENTRBUi1Ma0FkbG1XY3pUd20ydTh1Q2NrX0x3LU4wSG93cXk1ZE9jVUY4eXJIeUFzUFJDQ05XVjdHazFBcEtHcDQwbEFMMFFzSVRWWVI1Z3dJUWNzM2dBNTJBeEdTZmdzd09SOWNjVVZzTkVISFByODI4RGstZDgwcXRVSUV4UXE2M1ZYWHJidE1aZlFHZFhleGxyM2xYU0p5bDRkT2EycjF2cUY4V2hENk9OdVhHc0prTUdrbDh5bm9QQ1MtemJnWl9ESVN5ekprQXpn0gHnAUFVX3lxTE1DejJVWEF3OE1jc3dYb0hOMU5fUjRkX3o0anRDeklFNllITkpnbE5ZOTNmQnRfVUtZTkN6bW9hT2RUX2dBeW5SRjhjRV9COFJWclp6Y1V5b0lTUEl5aEpLZFgxazRZR0FvU3BuS3RNa08yNVBHenVkZHFJZ2xwa3VvZ2c3cjV6aWZQZEx5QVFGeE93bGZqakFRYmViX2tNUmN2Q09nVm1XMmRBclpLZVAtYlltelpDSks4cFRFd2NTNzYwYlFnSjRUdFZ3bkRuOUFyQWdPM2kyc1MxWlROcFhZWTBzZ3BFTQ?oc=5",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
     },
     {
-     "title": "India Calls for Stronger Global Cooperation to Combat Cross-Border Cyber Fraud",
-     "date": "2026-11-12",
-     "source": "The 420.in",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83eklKNnUxMlpDNVZpRE1EM3ltS1poTEU3dUhlSExpUFhMZ1UxZVNaZFBQSHZqYlM4MWpPSjNVSDRfVXVNaWFWQUhsbVFnY1FMS2UxeGpZWlR4VGo3MjNUbTIxZUY1aUVfWG1JVllWdzVtbE5XLXlF?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
+     "title": "Inside the international cyber raids on India’s NBFCs; Hackers turn NBFC payout APIs into theft routes",
+     "date": "2026-11-13",
+     "source": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSFZzSjl3SFdkc1lTUFZUaEFZLU9mMUtMa2FEUXpPdDUyTUdYQ1k0emdBamMyc2VHalRvdFVaUkFncV9ERVBaRWhLVUk2S2F0VDVGeGNLaWVldjVjTWVKM2xBbzhLOHRMYkFhRktrQWRLcGNCTUdmWTdtVmRPbThBbm00eVRick1MZjBCQjd1QjhyWm9zeHo3X0hwQ0lKV0laQ0pwRzJpdHRxSGZvS2wyQ1g2YXRVQ09la210RmJQWEt2MVpSTzI0MFlxYVQ4YXpibGoyR0pDTVBabGJQU25vZ3J2Zm5aNEpqZGJLUlBGcVF3OXZDN3g2RTdsWkRvVEtBT1BmY2JZanPSAY4CQVVfeXFMTVlFNVdaM2lySldveHZ6TlVmdmNJX0FnWDMxN0Fpa1N3MEZsRXhBR2Rtd3gwOGR2X3R6dmp5SXloMHFnX0lfU3FxMlJOQU1YSWpEaUIxbnB3ZXU5TW45QUN6c2Fuc0lLZTc3anVlTG5QODh4VTlGVGhTVUZveS1mZE0wVWtGUDBGUDdCVG9DZXNpaUN5SG5odXhuWWZ3WFVCdmpGSFFVM1pWWGtiRC13cldTN3hpaTRBWUpBeGR2X2kyZkR2ckx3QmVjdjRDSWJKYzRVRGZfd29tREJOZWVYVFQ3eUxvakdxUkhFNnUxN0pDR0ZQNUEtM3gxcTFWTk9zMnU3NTlYRmktOFh2aU5n?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
     }
    ]
   },
@@ -41,20 +41,20 @@
    "lon": 72.8777,
    "incidents": [
     {
-     "title": "Court grants bail to developer accused of creating 2,805 fake apps linked to ₹150-crore cyber fraud | Mumbai news",
-     "date": "2026-11-13",
+     "title": "Cyberattack on Belapur-based nationalised bank; hackers steal sensitive data of 4,280 customers | Mumbai news",
+     "date": "2026-11-14",
      "source": "Hindustan Times",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRHJNLVF5OXd2QVBGc0VFckJBR3BHN2tETWdhZEJjU3p2VkhMVVdRYVR4WHY1eFc1aUZrcWNCNnlJcnZMLXY4WGItM3E2Q1JFeFhrdGpiTVhIV1NKNlAtdk9SX3RscFloYzJKRkpIRWxlSzhXYXVLUk9GRmhIQnU1RGV6MGRMMThlVS1RYnBTdDFjUEFpaFNsNEgxSVZMNGlVN0tNZ1hSTTRMLUdPWU9EU1hmVkQwa0NfSU55MFp1cTJMdTUwMmVLSlg1UHF6ZVBuOE9JNk93aEtDT3JUdkktWHR2YVB4T3IxZW51di1xNlYwU1ZISWxVMG9zeFZGUdIBgwJBVV95cUxPelZXYjBPSHYzSng0LTF4UzlzN2lrVkJDUHNjVjlzQXp4UkZjQnRYcGZyNEFFa2VTSUZkNVNiNDF3Q1UxYjljV3ZPd3o4d0dHQXFWQlhRa3g3YldSdEJyUEw5c3hnSlRsRTVNZEpXbVBCOFYtQTBtRlk3YTVSOUFGWTNfZ09xdjlRaS05VFVPRnVSb0R6Um5ZSmtZWFFPVUtMa2hRZWltZkNHampDQkdfWHFjLUU0bnZrZEhnbXlwUFdPYXR0YjVzQk1Jd25qVGx4OFExT0tINzRjM2YyS0UyUGV1WU5XVVVoWnB5Y3hBNXBUSklTSV9sS0ZNMVAtMmt4WDJJ?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQX1U5Tm5NV1BiaThiaG5fdy1GU2x3bjBCZ2h5bkE2N0dwclRyWHBWM21LQXpvamJTLVdKQ2hNajdkYS1ZUzkxeFpOcVl3OFhBbjcxS3h0bHZWcmJ1QUVtNDg1S0hZYW41N1poZVB3c2RCWGFLSy03MlhYck92REh4b181Z2pRQ0ZrYWVwd1k1MHRvSFlfODJJaXA1TkZSSGdtcEVNeFpIVk9Fd2stS0U4WFFiak5iaFZQVGFnYmwydVpmbUMzLWdqcUpiTE80VUxnSTZzTTV5c3NGY3RoSTF3STFHWk1Rb0pWM3ZXWTdSNktyU3YtTS14X9IB_gFBVV95cUxOQ0NwSldDdnFtOXhQZjNRRFFydnQxbkJDVkFDb2otTkpCckYxTkgzLUdEUERraTBHVjVCTXk0WlVFa3BjMDFkcWJDUHZtY2I1VFhSRUFkdG0wQ1U2OC1lQUJiZmhWWGM1Q2VENHBlNHJjRm5yclB3TVUwRUJWU1RpYldHYUp1RTFBZUUwbjdOVU9tZXFYeFNwMlo0dHJqRVg4VjJDaU9odHNnYUY3MUFZVkFOSVVUU3JWSHdGbXFKUXhnS3ZVWWRtTVV0RGtPSFdsdS1kdEhQRkdMTFZIdGZZajd0UGVFa3Npb09BcmFKeTBJbkVvRld0R04xWGZaQQ?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
     },
     {
-     "title": "Pune Cyber Fraud: 75-Year-Old Woman Duped Of Rs 32 Lakh In Fake ‘Digital Arrest’ Scam",
-     "date": "2026-11-12",
-     "source": "PUNE PULSE",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2JXRWZ1RjB1X28tMUpXZWxWYUVYSkNKMDNNUkMtM0t0YjMyUnc2QV8yRkFYMm94ak5NeUVxSGZvdjRmcHpub3g3M2gyR3dNRkF4Z2JhRUU5OFhtOHhFR3kxczBCNE1lX3hfSXpOeXZ5QnhuYnNQZmN6ZXZLUzU4OVVsSHhNZXNQX0t3eXI2eDhCbW9VSHd1QVQwd2hoUGMyQWk5SjhkakNlcXpfU1ZuSA?oc=5",
-     "technique": "Impersonation",
-     "attack": "T1656"
+     "title": "Navi Mumbai Cyberattack Exposes Alleged Data Theft Of 3.75 Lakh Bank Customers, Records Reportedly Leaked On",
+     "date": "2026-11-13",
+     "source": "Free Press Journal",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeWVjODM2Um9zT082Skh0czVFemdnQWpITWwwcC1xTkNqcWsybkVHMTVjWGNkU0htNTNJaVh5bVBPQzNsYjdYc2xEcUlPbDlXN1RtWjRiNlVjQ2ZTWlBBNjM4dEpqWkVScEEtSWdBcVQyRGZMMTRzaGZCY2tGbnQzZkNoYUNWSWlIM2VQVHRxdVhxdGhVWTNGang0Q2hrczBNVk4tUjJSWUFyaWpnQ1htOHBoYS04VUVvMU1STHhocGZpc05PZFVTOEFJUlZOSlV4WlU3TnNPejhfeWlaVEE0S1poc3RxVFHSAewBQVVfeXFMT1c3aVVOTkZ0VVF2VWt1VlNWQWJWZTdXcWJFdjIzdmRmdjVjOE9rd21paVl4R3R2bDN0U3lEWWZtOTh1UlFBWlJmbnp5YW5qXzVzY2g1N3Z3VGd4SGFQbFVwNUJhRFQ0OG5iSkxkZFVjZldfdkZ0LTI5b1k1Ul9yd1dkVDBGV3czV3VZeEpFbENIR0RtU3NZakU5Rm9SbVB2RXV2WnRfUkV6RzBkRGR4SmdnblRKMTh2czJmdmozWVk0ZEVXUUxJd3BQaXMwMkZyOXRaQmxRV0xDYndJeWR5dHZXZldXeERkaHFoT0E?oc=5",
+     "technique": "Exfiltration (vector not disclosed)",
+     "attack": "T1041"
     },
     {
      "title": "Man posing as CBI officer dupes Pune senior citizen of Rs 22 lakh on threat of 'digital arrest'",
@@ -73,28 +73,28 @@
    "lon": -98,
    "incidents": [
     {
-     "title": "US disrupts North Korea's $400 million crypto scam, FBI says",
+     "title": "Trump Says US Flight Grounding Not Linked to Cyberattack or AI",
+     "date": "2026-11-14",
+     "source": "Tempo.co English",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGs1TDdDY1BZZ2V1a0NBNVVQb0t0UDBlZlJiTG1zNGdXd0dSZ2I4NGxnZUVVMU5EWHdoTlJqeC1qV0xPTmdYdzNjVWdqT3pJeHpPU2Z2U3gzWHp1d3paOFgxMng1ZE1MOTZRWWtGUllEQnc0UXc5YmZucGxLN1lncTFma3JLbDZ2eUlkQWZmMEh0T1lOWWxjeXVJNA?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
+    {
+     "title": "US reopens airspace after ground stop, rules out cyberattack",
+     "date": "2026-11-14",
+     "source": "Kuwait Times",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjltX0ExY05udUFWNFFQV1UtdkR4ZHdWTUNGQThTMzdGd0VzRm5zYlB3MG1maUpDaFRtY1dDRDlyLXU3Zm5CX1NlaVg1WHcwQnNENFo3NmFOaEdSYjNLTzdsLTRVby1fLVNsSHNvcG9NZkk1bjdVZEJPQVg2ZjRLWFhmWDBGOW1GMkhZYklkMk11Nk1KR0drMHZ1bFBLbklYaEp1V3lZZ9IBqwFBVV95cUxPd1o0aWpMeS1zdXd1c0FoVzBlZWo4NUhoeUU3aU9sS2RaYlVDbDZJaFZpcEZoLUhDak9YMUdZRk4wdDlEdHlUbEJEdzZEQjZiaEZHTFd2ZmVwV1IwVVZhWnhyUmVSeUUwWlBEbGxNTUdPWWJaRE4xbGt2enFlbm9SUlRKem1pcmZtMjNvN1hVc0Q2UHhXVHFPMmoxb25YRjAtLTBiczJoSUxLZXM?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
+    {
+     "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
      "date": "2026-11-13",
-     "source": "DW.com",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1RTc1hhOXdpUE5vY3AtWFpwWlpXMllnc1VfTTk0UDJHQWhFNTMxV2FXbnhYMXFqejlhSk53MEJ3cGR4VWFULV9qUHBUczQ4NmJfRWpxSG9yT0xqcUV6R1dXajFGWXdLS2tiZjZqLXk3eWh1R2p6cnVsTzM5bFJCV05UZnRmdlU3clpldkxpTWpMZENH0gGUAUFVX3lxTE1YSnR2U2lpM0hhMGhwdExuWDdqckk3OWlSUUNELTN0RVh1NzFBZHJfMlBLMmZWTEFMWmZwbDNZSlBLM2R1anIteG50OEI5VEpfTVVTeE1QTlJoY3d2b001Q19FanBfd084RTY2dUtQUHotYlRmWXFjdnpSUG5fNWZESjV6SEpMamN6Qm0wemMzd3Z6WWg?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
-    },
-    {
-     "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-     "date": "2026-11-11",
      "source": "The Hacker News",
-     "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-     "technique": "Exploit Public-Facing Application",
-     "attack": "T1190"
-    },
-    {
-     "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-     "date": "2026-11-10",
-     "source": "The Hacker News",
-     "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-     "technique": "Exploit Public-Facing Application",
-     "attack": "T1190"
+     "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+     "technique": "User Execution (malware)",
+     "attack": "T1204"
     }
    ]
   },
@@ -104,6 +104,14 @@
    "lat": 54,
    "lon": -2,
    "incidents": [
+    {
+     "title": "Retail cyber attacks: hackers probe UK online storefronts",
+     "date": "2026-11-12",
+     "source": "Direct Commerce Association",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMV01MVUZxTUdlWGUzZW9JcEFaMFNkc1BEa0JhakRJTHJYcGF4UDZraDJNVDBILUNDSWpieWxFQVVYV0Zpejl4a0FhVE1uVW9jY1dRaVFoSGZza1UwS3ZHRkxUNlVod2lnWUVGM29pVEprNlNnQlBaUA?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
     {
      "title": "Hackers are more excited for Black Friday than UK shoppers — but not for the same reasons",
      "date": "2026-11-12",
@@ -119,14 +127,6 @@
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDNRSFUtZ0prTkRnaGVLaFJaSWlvR2d0Z01sRUgycGhrQ25ZQWdkWDV1RzdfY3BnanJxdnc2YkpjSHNoYjlsSWNEc0hBYzVFbDdyLWpMR053ai1qNjdzdUdNNUQxWXF0Zm02NUpBc1o1NHRqVDUzTGFXYTBMbmpxVENnOTk?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
-    },
-    {
-     "title": "Hackers are targeting the ‘soft underbelly’ of our systems but your home devices will be fine, former UK security chief tells Irish News",
-     "date": "2026-11-10",
-     "source": "The Irish News",
-     "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQSjFucXN6NTR0TlBMVktGNlg5SmZ2QnZLNl9DdVdfZjhNVVRSQXNFRkdaWGtrcUczekFYYVBUWjlTNjNzU1BhVWUzem51dUd6UHJWWFRuV1VfWHBDcDdGZXhmT0dWMzZZS2dlX0ZaVmo3dk1mQjJyemNmd2NPeUFVaEdvbVRMX1YzWlliaUVzaHVJZ3RPcDVocnNFblptRW91TElXV195bUUzcDU5bjY5dXp2aGFrcjNVRjY1YmZueDJ0NWdhOGVjT2pCRHBwN0h5Y1BvMGlZaWREYnphUmtDa2c2RDAzVGNxaFV4MTV5YUJIc3l5NFF5UVBLVXc5TVpON3NPby12T2EzR1hONlhxMFN0T25wRFNqUU1fNEVPWm43WjlwYkpSZmswNFZmT1RGOEpN?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
     }
    ]
   },
@@ -137,28 +137,28 @@
    "lon": 90,
    "incidents": [
     {
-     "title": "Russia’s Turla Hackers Target Exchange Servers for Espionage",
-     "date": "2026-11-12",
-     "source": "Security Boulevard",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnluaTQ3YjVfTlNsbW1XSW40ZUltdWloR1BNdTB0WGN5RlR2VDdKbDFqemZOdFdOMlFxV2FyNFhyQVozcTVZeDgzRDY3NVhPSUtaeGNmVlpzUHp3TV9TRkdSeEFEUFRUaExYUXF6UWU0UUJyaWlaUzlqRzREbjdjN0Z1SmJCV0dCNmlzclpMOFhoc0R0M0RoNVFhVlJKMDg?oc=5",
+     "title": "Russian FSB targets NATO emails as hackers exploit Microsoft flaws",
+     "date": "2026-11-14",
+     "source": "Defence24.com",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaU52ekZ3YTh2aTVpX1NFZnhiTHEzbHJZVnNZdmRkcTYzeG9RZFRTaWdlSGFqYkFyMi02a2MxV09vbDdmMFRsV2h6bnlUSnNNYjNWd09LOHFOV1JTQzNMSm1XUWJQV01OaTUza29SU1QtTmVqdHNNM0NCenpvQlNpVk5hU2cxOWF4UXMzU0xIM0pka3ZDeThfVFRCYjRPaklHMGc?oc=5",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
+    },
+    {
+     "title": "German Drone Maker Quantum Systems Faces Cyberattack, Suspected Russian Involvement",
+     "date": "2026-11-13",
+     "source": "Ratopati",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTFsU1dDdFgzSWNIeFRsdDZnTzJzY0lYQTRfWGxnVDhldlVobVV5cXBuREJXUWpmNkVTd2RVY3pKZTVxSnVXc1hxU3lPcTB4VkJnc2UwNXcya3htLVhvVDhUMnVNVW1zVV9ZUVZ6elJENXloNnVGSXVqNi0wTFRNT0JNT3FpUWxFb3Y4d0Z4UHV1Mmd1UXJhVnNLcGxlWDdD?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
     {
-     "title": "Romania says it stopped Russian cyberattack targeting government emails",
+     "title": "Russian Turla Hackers Targeted NATO and EU Emails, ESET Says",
      "date": "2026-11-12",
-     "source": "The Record from Recorded Future News",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BYXI3ekJGX016dDhDYjlzclROdko4NElBNl83V3ZNYUk1SHAxYmJnZU5QNklHMnVvRk00clIwbWxxX20tZC1rUDI2X0VPYm9pOVFObEY5VzZxcGJDbTNiTjB3UWZtNHRl?oc=5",
+     "source": "CEO Magazyn",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTdjVXNWk4Y3d1SmNnenZScE1Lc09RNTZBNy1Ibm9PX3VmV2xqcV8xUDZRVjM0S3JFWXUtdHgwdHRELTZGVlNTSWhGZVVORDVZLXpvTTItUk9qTjFqME9DNkc0RXo2NEx4OWJVcEEwXzNWTzA?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
-    },
-    {
-     "title": "Russian Turla Hackers Use Cereal Malware to Target NATO, EU Emails",
-     "date": "2026-11-11",
-     "source": "eSecurity Planet",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2lSelpxNkhkLWJpUG9pbm1QWnhVNlU4SkMxLThzWVdxc0JubGdFWGhnOHFLbHFWMUtmXzMxcmlwSnVDX3pmOHhpaVhidDd3emNLX040bDh6Z3JzcmVBem9mRnNPY040X2dUWFI2Nk1BelBrUUlpekZuQUl2dDROSnVzWGo2d0JnY2tXNncxR1o5dVlweFZMU0NpOA?oc=5",
-     "technique": "User Execution (malware)",
-     "attack": "T1204"
     }
    ]
   },
@@ -169,26 +169,26 @@
    "lon": 104,
    "incidents": [
     {
-     "title": "Jensen Huang's resignation, Chinese cyberattack and rogue AI: The conspiracy theories surrounding Microso",
+     "title": "Hackers have switched off power in Ukraine three times, and US agencies say China has prepared to try",
+     "date": "2026-11-14",
+     "source": "Nacionale",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEowMWlCTVRwaXUySzV2dkZZT0drZVpYdW9hd1ZWVFBqNG81UzJralVGN29jTFB5UG4yOFpYaXVmb2M3aVNrZVNzVVk5NDlWek9PWlNzdFJFSXc3MnE3RmNySnVEeWstMHF1ZHVpWGxVX1I3TnlMQVZmVFpPT3Y5XzBYaUJ1ZXllOFNmQ1BsWWFTMzdDbXJ4Y3VpXzBtVS11RkZJRjNLWDQ2a3dsZ3Mw?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
+    {
+     "title": "China-linked hackers used an AI attack framework on DeepSeek and Zhipu models to breach chip and defense groups, Unit 42 says",
      "date": "2026-11-13",
-     "source": "The Times of India",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPS2U3dnkwTjJ4Z3NPMjNqV3BselFkZThZVWlKZkJkWmMxZG1iNkhjdk16cmtFd0c2MXVpSGwwZmx5OXFnNmZDNmI1LXo4a2ZVWnBzYi12UDlodFRTXzV6ZFVKbVppb19zaGNUUS1sZjhZTEhUclAxRjJGaHlnVWpFampKVUc2NzNPdEVfaVpqZnNERUkwZmtzWlJ4dTBKR2wyR0V0TWF1SFNtUjM2elpMOThoZlV1X0w1YTRua1E2QURaRmtyRGhpX0JlV1lTSDNtV3AxTWdGTUZoVnhmNWpMYXpieXN2cUVvYnRHNzhLdzJMTFNSM0tKWWgtcXJGN19GQlJUUjlkSktvbTVMOGZB0gGUAkFVX3lxTE42c1JIaU9iNkhfa1JkUnpqRk01X0ptQmdKSGVaTUE3a3AyMzRCMW5PWGpsbTRrUnkwU2dJWjRtcW4zZHQzU0hPSl8xSVM4ZmFHNkFOZWRUeFRlX1JnalpFV3B2ZERjMUY1enhGNWdWTEpnOFlkbFN5bkZyb1d5bjFMNmo4bmxhOXNfLTVBTG8xcVduUlFEUW54NWhGTThndGREYWdyMnRpc25RcmNWY05LdV9sSWd2eFVtSE5XUWJGTVRUam5TR0RxRllNSmZpcDBLSnpoallsd1pzcWIta1dvLUs0U0p5aU1sZG1vVlJ2VTMzbUJqMFBPUzR5Q3l6a051MEZGNFJnc19PQTNjU1pqalhNVg?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
+     "source": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGdzVE5JT2ljZTZSUXhra1drZ0hhaE41ZFc5ejlSQWYyekxxclJSRC13c2NESjB6SkhmVGU0c3c3Vi0wQnRndWZ6WkRvdTItRjBXN3FzUXY5WGQzdFIwOWdxazR4WGg5YjctNS00SWJzZ2hWYWY5N2p5SW84UG1XQkY0QVUtYXJGdDJrb2lXc1dMekg2TkMwNEw3bVBiT3NrQVg5aFY5dG0tOU9UMVFLQ2NwMUZucnRucHRXRTNYeF8xRkE1b0dYQzNhMWZLb3RvZnVxZ0tod0dCb1hkYVE?oc=5",
+     "technique": "Exfiltration (vector not disclosed)",
+     "attack": "T1041"
     },
     {
-     "title": "China denies cyberattack allegations",
-     "date": "2026-11-12",
-     "source": "FBC News",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CQWY1cjUyVEJWbzIxVmFhTzNPdGpCWHB1cGEtMGpfY2pfNGgtNjM4Wm95eWRyb2h0NVVGalZYek95WjRhd2lmOEtueWtmUWd0Z05teFlKWUpxbXo4UHd2WGhaVmJTbENxaGsyNjk0MkdsMHFkR3VBQg?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
-    },
-    {
-     "title": "China Hacked Nvidia?",
-     "date": "2026-11-12",
-     "source": "middle-east-online.com",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3a2FCU083ZjNEQ3JNRmlDSHFmVll4UXQ2bDZqWUFISWt5ZDJJZ2g2X0xaSXMtR1g4Q21TU1Bfbl8wZnR2N3daeXVYZDdXcERLRHRJamF5VTg?oc=5",
+     "title": "FBI says Chinese hacking group targeted US government agencies for years",
+     "date": "2026-11-13",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalh0TTJhNTdMVDI1Y0hfa2FnRDY3ZHV6eTVtZE1pWWFnaDdzZzBhamhxSzh4dF9sN09maU5YWWlPQ2dfdjNNYUtwS1NHalIyMUZzY0RxZ0ZhN01Ec1Y3RDY0VU52RTV5S3c3U3BpUlFUVXZnRHNsOTZDa3cxc1RlZFlqS3ZwQTJwSHBId1poWU80OFdBWlRFNldHUXVKSDQ3SXNPc0RITjRfb3ZGWDVQYS1n0gG3AUFVX3lxTE9YcmxVSjludjBpWUlFV2p6NXBqcmktajB1ZUxmNnBoREMtYTVLTzV2b3hTUDhTUi11VnR0Smt5SExzcFQ3aXBYcjJOYTFKMEN2S0ZtV1RvLVpsbm9wWk5lQVh4eGY5NU9LNVVpNGVSdTJKVmRUZG9fM1FNSGFMY1hTeDFxT2s4cHB1bWE1bUZzVGI3YXpjTUtZdXBodE9NRkNmME1vUkV4NTRTdHdYYzRXYlRKN2VTRQ?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     }
@@ -201,18 +201,18 @@
    "lon": -52,
    "incidents": [
     {
+     "title": "From Assault Rifles to Phishing: Brazilian Criminal Groups Go Digital",
+     "date": "2026-11-13",
+     "source": "Diálogo Americas",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMk9XbGhNUldrQk5SVUpUc1FYRlphWURZVmptR0dmeC1kNlFtOG1OeEszZ2dieV8zODVUcE5xdklrRTltSW51OENrNDRIWlRZUDdRQUJTWGFic180aVZ0X0FEaWFMR3NUT09JR1BmRDU5djc3OXpJcW9vRE5rNjA4d3JSNUo1LXJGYmVSVldyeVZ5MUdUajBqaWlUUjluRXZ0UU1zSmlMUEZtZ0k?oc=5",
+     "technique": "Phishing",
+     "attack": "T1566"
+    },
+    {
      "title": "Brazil’s Largest Crypto Exchange Mercado Bitcoin Hit by Possible $40M Hack",
      "date": "2026-11-08",
      "source": "BeInCrypto",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFRCLWtrVHdmVHhwX21NcTRSLW1zTnMxbFNEeTRfNkMxNWhMVVVUYTNwMnF4eVNXZGlFZ2E5ZW5IODJYOGQyOW5Zb3M1dlM4Tmc0amxWeVNRNEZ0YktfV3c4ckJiR2ZPazFWZWVEYzQ2elJTODNGLUxMS1NLd1lYNVhlNHU?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
-    },
-    {
-     "title": "Hackers turn billboards in Egypt, Malaysia, Brazil into porn screens",
-     "date": "2026-11-08",
-     "source": "TheStar",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNajlpa1oxczN6VnVFemYwYzhfeTh3RWZUYkhMMW9WNFZ2SnpoaXdqMUg0bzFtdzN0T3JkYWNjTmpVQ2NBWm5TZ2FlcVhTbTBmblpRSHl4U0wxUGhxaWFERlRlWFJNS2xEUU5zWkdJbG0yeUNLbTMtRGkwOEVXRU5ETk5ZczBraTd5aXAwaFBUZ0txcHgt0gGaAUFVX3lxTE5mQnBNZUs2eFR5eVFtRnFIM3NydEJpT3paOVFmSEd1UzFrTmRnNTBYZjNCTzZhOGZLNENEaXpodlR3THFOaDhQbGxoNlJUYjFtUjgyNVlTS0ptU1RMS3RpVy1yTmtwUnRHV0dsRkhZTFdyYVV5TFdyeE9NQ2F6THo1XzBzWjkweFNqanNsY3ZBREtJOXpFU3FUQUE?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
@@ -233,28 +233,28 @@
    "lon": 10,
    "incidents": [
     {
-     "title": "Quantum Systems says grounded German military drones flying again after cyberattack",
-     "date": "2026-11-13",
-     "source": "Yahoo News Singapore",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZkd2ak1laUFLeWlxNzZqVFJyLWNzMWhraFRoSWt6TkxLVGVNa2o1RzdBMXRUek1xYU9ud0UtOWpKOERuX3NEN1dXZHhCeFNTSFRMUXFXQjBDYWdWMjhjWTV6blcxVGNNQnJyMmJIT25weUhha201dUtDNExVdEhyczdYTQ?oc=5",
+     "title": "German Drone Maker Supplying Ukraine Reports Cyberattack",
+     "date": "2026-11-14",
+     "source": "ETV Bharat",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMEIwWTZWMFdYTkJvUGh4UE5LblVaaFY5OWZoMlBFVXZ5RVB1ZTlBU0FGc2J2OUFsV0FNYzlPYzczN0dXWHdlUzBaYk5mU2ZHdVVqOVNnOGJ1VDNiVXhJbXVtZHplQy1nNUhIcXR4eEUyWV9NdkNGQ3dWQU1IelBtM0s0WVctNnl3eEpLb1RRNGpQdWpsc2ttSVRPcjltSkJXSDRVQzVlam04c2PSAbABQVVfeXFMTURtelpYekpRejNxM2R3cnVRSjU3Ulctb2ZPUlJFbTBjb2RkYW4wZUl0QVp0b2tvbk5hckl5aU00QktDZFBaenRiMFJUQ3RVZU1FVU9XMWR6SFJ1VUFRRTNiWmdPdVhCWjQ5Y1BjdGRkQWNXQTFXRVhuTEdZQUdOamxPUFhsTmdzWXB0YUZnOW5zYTRnUHl0X2p6ekxzNVdCWXR0Yk12ZnJyTzlkMHZoOGQ?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
     {
-     "title": "German drone manufacturer Quantum Systems supplying Ukraine suffers cyberattack",
+     "title": "German military drone operations disrupted by cyberattack",
      "date": "2026-11-13",
-     "source": "Українська правда",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xVTZSWkxVSTZVYnJBbHp2MGF5bjh5STZRUl9HWVl2akI5RHQ4OXRwSDhuZW1mcUpyX2FLdDQxQ2xiSnFsclh6UFFzYTF5N1dSMzVPX0NBTVp2LXEzTWlfc2ROd0bSAXBBVV95cUxQNDNQSlRrZWdza2xVNVhOTGdnXzFZeEFJQzl1T0IwVWZuUGRjSDd1cVo5bUs5LVBGWVZQQ0JRWmdXbDhuRXdNOUZ5NHNBeVZnN2p4OUlXQXA0U0N3OG9BVFd5VmgxRVl0ZnhaYzd5SERZ?oc=5",
+     "source": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
     {
-     "title": "German drone maker Quantum Systems reports cyberattack",
+     "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
      "date": "2026-11-13",
-     "source": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVW5wck5ZTUl5X0RBN0ZzdmR4TGc1am5WZ2ZfZmpVbjZTVVR1QkNTNFltRF94eWpDRGhlMmNGSXBGSmpyNFJYb1dIUDVPWDVMRnpka3l6Z05GMkN5Y3QzWnVVVW15MDI0ZFhRbnN2ZFh0d1ZTdW9JbWpua09FY2VZcjkxbE42WGUxcGpFdWxqUHM2S3NKZGc?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+     "technique": "Data Encrypted for Impact (ransomware)",
+     "attack": "T1486"
     }
    ]
   },
@@ -265,18 +265,18 @@
    "lon": 134,
    "incidents": [
     {
-     "title": "No sign of cyberattack, says Microsoft exec as outage snares OpenAI, Anthropic and even Australia’s spy agency",
-     "date": "2026-11-13",
-     "source": "Newswav",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZktxTVRKV3RwMzF1d3F2Y091cVk1bDFFVkh1Vmg4TlRqa3p3bmFDMDIzSHJhcURVU3FEZDRwY05ncnczZTdUVDNlanE3NEtrTTliR3JBQ1ZmQlFNT3dWYVRmd0tBZlV5eklyRV9KWkpyUlZLQ2hmdXR4ZGVKSjhoZ2E1bENmNzNDY215VF9ZemhVd2VCYWFyS3dCNDNzeU01cHp5OTVKR0lOa2RtMWZ6Vy0zeElpeDg?oc=5",
+     "title": "No Sign of Cyberattack, Says Microsoft Exec as Outage Snares OpenAI, Anthropic and Even Australia’s Spy Agency",
+     "date": "2026-11-14",
+     "source": "Malaysia-China Insight",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeHhlNlJaZkhvZExYTUNadHh6NEFoS2w2clQ1eTJHSlkwUDZuTHFqWC0zaVFFZF9aRmZLa0NhMXF3bDREeGV5eWNSNDNNMGNjRWZjNkcwcHNWUEhIWW9Jc3kxN2dHWHNEOFR6RWE2Q3YwN29iN0swaGVVWmxMa1c2cUxYR2VtajFNTXdJRFRzZ1psOTRoTjdWQ0FUTXEtVTdsaUM2N2hkYVU5Zjd6eTNDOHduenVzYWxTbnFLWGhacW9aSFhORUNub3B2QTNDaE9oWF9xR25B?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
     {
      "title": "Australian minister says Microsoft doesn't believe they are 'dealing with a cyber attack'",
      "date": "2026-11-13",
-     "source": "WIS News 10",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDByMGRPaG5HRzgyeXhTZGQzQ1lfYzRKT2lvN1pHRkg2ekZFcUZFc0N6R2N3QU5XYXZCcEFzbFpmc0dqOUY5Nl81ZUlTYVAyWnF5Z1pvVG5FUHU3cERiSDlIWHJVTTVNVG9fZ3JBRUpvQXQzWm9uNmhoZGxQcFNIU3p1YTJCOTl2emd3RURGQzdhaVhwVzNuTkI1WTRod1pOOVBvWTlpVmZsaWxFbUNLYVY0NHc0d2otVGRkMGJIM0lzUQ?oc=5",
+     "source": "FOX5 Vegas",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWEpHWFdlVlRiYkFPSmh4ZkkwS2lsUEJlSGJGWHItNFd2UjdEcjQ1cUk0VXpyNjJPY3FlU3h4YXFQSng1Y05ZM3pIajNRblBXanB3MzgyOURvR3VRWmZsc0ZZRHhjeWJTRkdYTGpzYmdvQmp1dDc0U2gzUlAxTFFTdjRXR19QV1J4LXJVT19sUEpHT1MzbmhCQmZHRXVkSjl5N3VBQ0hEdnJjMzg0eFhITm1kRjR1Q0lOdzl2a05XZUhudTVtd29v?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
