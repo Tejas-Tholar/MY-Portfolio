@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22",
+ "generated": "2026-11-23",
  "note": "Auto-collected from public news RSS (last 14 days). Summaries and ATT&CK IDs by Gemini — best-fit mappings of the public reports, not attributions.",
  "places": [
   {
@@ -9,28 +9,28 @@
    "lon": 79,
    "incidents": [
     {
-     "title": "CERT-In AI Alert: Hackers Target Payment Systems in India",
-     "date": "2026-11-21",
-     "source": "theopenpress.in",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM09lV3JwX3NsaFE1Uy1zRFp2QU80MkxCWVZsd0dfWEo3WjJNWWJPZTBQbWhiZzFHTm9LUjVaWVRITjkzMDNZZlVQN3REVmwyd2M4T2tRN0JZam1BRVVDVVlkTEFwYmlZNENQdzdnUEU5Y3B1WWc2cXZnanVXbkVwcTNR?oc=5",
+     "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+     "date": "2026-11-23",
+     "source": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
     {
-     "title": "Delhi Police Arrest 24-Year-Old In Pan-India Cyber Fraud Network Supplying Mule Accounts",
-     "date": "2026-11-21",
-     "source": "The 420.in",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnVZeFRUM2U1SkI1LXJUR0FWamVzUlVHZkJ3RjJoYlgzU0tRekFYN08wQWVZdjlwN2NTNGI0ZUU1Vy1mRnUxMkcxY1V3OXVSR2oxZVhqaGN3UF8yZlVhcVZiN243c0VYSjNTQVIwQm9lQlA5RGhTMlVHbnVSbTFVVVhzeW92ejhYNXJ0LWxKZUJqVUFJaUxZZlVmXzFseUp3U3NqLTAwRU1GSEk?oc=5",
-     "technique": "Phishing",
-     "attack": "T1566"
+     "title": "One cyberattack, thousands of claims: Could a cloud outage overwhelm India's insurance industry?",
+     "date": "2026-11-23",
+     "source": "Business Today",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTTJTUks5eEFzYmJNNmxxRHE5ZGdFSFhjdEpjTW82MVVJbGVxSzlRdjdfSng1aDdLZDJ4NjlRYTFZLXpWNkpRQXZRbGVQV0NQbXl2bmFraUNJeDBIc2N1QlUwc2xvclV1VFRrZlpMbTdjZ2kxZE1rUlo0Nm5PbkVtZGp5SDFqcWRrWmNIakwzYXBfc3B2MG94NENDY1JMRkM2Yi0yeThma3k5QnM4cktPWm9fU2FEam5EeDVydW5ibzFuSTAwMU5HRXlKQXV1c2FYLWRpOE8zRUJWZUFiWHY3dk9xQzVtejVYQWpIVDdHTnNObzDSAfgBQVVfeXFMTzVRSnJlS0dTd3BhbU1MUE1YU0ZtVUJOZFZHX2FrUmxyaVVzWW5hVW4tLWFQY3otMXlZUVpoMUdZSUhPbVMwS3ZyQUtQU1c2VTJvSkxDdnVZMUpjY1g5dG9fMVVhaUJ6NjNWU29JYUlBZ0IwSkg3eVZ5TElHal9wX2xHOWMzR2RpUnpRODN4MmpVOGVHeXFiSzVnY0dNLXdaRl9FS3FrU1p3a0gtc09zY1JHXzI2Ny02amEwMW04NkJ0WGhvMG1xcWtNZWRpYnJwamI4ckluYzlPVlNGaURMSGQyMjcycXU2Wi1jSnVEQVRrY1hLNHR4bDE?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
     },
     {
-     "title": "AI Hackers Are Finding Security Flaws Faster Than Indian Banks Can Fix Them",
-     "date": "2026-11-21",
-     "source": "The 420.in",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0dVdWxmeFVMNGpJcExwd0Z3QXJ3RGlVZlRDLXJ6QmhsSjZXQl9lVjhRbkNSU19yalp3cFpLYldWbm9FTVJmbk9uenBVa2Zib3NDQS1MLXBycGctblRhbm05ZThQLUYwNWViWWNGT3ZWSGc5UVFyekNVNkJ0dHFxLVA1cUdPME1hVzZQQzJ2eVRTZFZKTHZuWVJB?oc=5",
-     "technique": "Exploit Public-Facing Application",
-     "attack": "T1190"
+     "title": "Indian employee immigration data hacked in US: Persistent",
+     "date": "2026-11-23",
+     "source": "Rediff",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOEtDRjBBQks0dW10dFBNQ0NmRHBOVHZ6anMxSEJPVTF4aHVDSWlNUUZQejN3S2xUQWhsWXNsTGJqTkpLanoyM2RHZ3R1dkE5QjhBOTZ2OFJIbzQ0UFdXQjRCVjRGM3did0RYTUFRbi15NXFValR3R3BVa013Y3dvWjZRd2FWSE5kQUpVVjRab1E1aXM1d0RjRGN5RHotdUtUTUtVQ0N4YzJpNDFBSFBORU11ZlhhZ1UtV2FyWVV1SG5ReHNrY1ZuelBsUVY2WVNJR2d6VG5FRdIB2gFBVV95cUxQSzF2SkZXRnFjT2FOUkItd21EOXcweUljV09LUHpZOWZNY3VnbHVTNEhZdm5fdjRpbGd6ZDliRXVqMXJxeUNqcG1CWmVYS1gzQkNQZmpaTmdERG9sMEM2REZMRWZhLXVKLVVEUElWeGhFeFA4REVxQ0VWd01VakNYYUxGTmlFd2Z4d2xKeVZRUWRTRDhRLTJsUnFvbTZVdVNVVE9abXZpRnlUYWNGVl8tZDJRSndiaTE4TjFqLTZfdnFrcVIwZ01PT0FrVmszRUhZd0xqU3czLXNZUQ?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
     }
    ]
   },
@@ -49,18 +49,18 @@
      "attack": "T1656"
     },
     {
-     "title": "Maharashtra Police bust Dubai-linked cyber fraud network; seven arrested",
-     "date": "2026-11-19",
-     "source": "The Pioneer",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMEJ5aG9KNHhVRWF3YWgxSW1hbmJiNUhiTlRxWl9WQ3ZZNU1mdGxrcWkxbjBzLU84VXRsMno5SDZXaUMxOUVyMnUzTkJ6aHB2anJyTUdqTUpPZHFTWE93eklWbkxnd0NQbGI3UE9BQWFmdHlIZGRLaXBwLWdsNUlJZkktaEFRMWxEYUNrY1RPV2NvOENOWEgzZzJZZllsZ1pBVlg0edIBsgFBVV95cUxPZDkyWWF6dVdGVGE2dFpZN2dmMGJ3enJrelI3ZTJwaHN0Y2JKZXM2ZGdXd0Z1TWxzdEF4LU5LRTZLVUxRaXh5bUVPTnlTR0tacjJ5Mkg5NWJ6akhoclZvblhtUGVaZ2JtQlN4c1dWM3M2WlViNi1LTEs3UnFlS2NZRGVPM3BXSkxRRVgxa1R4ZWc4VHE0Nng4alRnTUZscUR1VE9QZFVWQ19rN19zUHNDTWl3?oc=5",
+     "title": "Maharashtra cyber fraud racket with Dubai links busted, seven held",
+     "date": "2026-11-21",
+     "source": "Mid-Day",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMXdJSE1vUUM3MjdRclVZUDVhTVZUQ1dvYzh1d0NFaFpzVVZqR3B6ODRUX040QjJvNEp0dE1ibWNDdGJ3dHVJLVpMbDdVSkZnRW1lalpUbTBqclctZzB2VkVhVkJMMy1JTl9NblZzSnFSenNQUW40Z1ZlMXZ1UWlhUEVXT2IydGJFUE9NbmJaWXNITDlNQXI3YmJxZjBVOE1uemFfSGtQSkhmZDhXUnV2SG1memJubGdVazBnclAxamc0QU5qSW0wNkdVbw?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
     },
     {
-     "title": "Maharashtra cyber fraud racket with Dubai links busted, seven held",
+     "title": "Maharashtra Police bust Dubai-linked cyber fraud network; seven arrested",
      "date": "2026-11-19",
-     "source": "Mid-Day",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdHBBTGRrWVk3YWJkQlgzMWVuSXM1eWRPeDZ4cEtlY2x0RmlWT3hjaWMzeVk1ZThfSmYyVjdRblNLVjVuY0xuNnpibDdyRjJMcl9fZEpwa010OHN3a0FPRVVSOGZsYWFzV2VMQkRRTlo2T2daRWNNZGowa2FHdERkNlRjNE1oWUJZTmNmM0thbjVNYk95R2pqZkxIWGlLY1FJVEJpa0oxTWdEbVF3UzhrdmtWQW9PdzJOSGtNd3BfTEZSRkx3MktXSkFidzhjb19EY01VaUJ5X2dFLUhI?oc=5",
+     "source": "The Pioneer",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMEJ5aG9KNHhVRWF3YWgxSW1hbmJiNUhiTlRxWl9WQ3ZZNU1mdGxrcWkxbjBzLU84VXRsMno5SDZXaUMxOUVyMnUzTkJ6aHB2anJyTUdqTUpPZHFTWE93eklWbkxnd0NQbGI3UE9BQWFmdHlIZGRLaXBwLWdsNUlJZkktaEFRMWxEYUNrY1RPV2NvOENOWEgzZzJZZllsZ1pBVlg0edIBsgFBVV95cUxPZDkyWWF6dVdGVGE2dFpZN2dmMGJ3enJrelI3ZTJwaHN0Y2JKZXM2ZGdXd0Z1TWxzdEF4LU5LRTZLVUxRaXh5bUVPTnlTR0tacjJ5Mkg5NWJ6akhoclZvblhtUGVaZ2JtQlN4c1dWM3M2WlViNi1LTEs3UnFlS2NZRGVPM3BXSkxRRVgxa1R4ZWc4VHE0Nng4alRnTUZscUR1VE9QZFVWQ19rN19zUHNDTWl3?oc=5",
      "technique": "Phishing",
      "attack": "T1566"
     }
@@ -73,8 +73,16 @@
    "lon": -98,
    "incidents": [
     {
+     "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+     "date": "2026-11-23",
+     "source": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
+    },
+    {
      "title": "Hackers target FBI crime database",
-     "date": "2026-11-21",
+     "date": "2026-11-23",
      "source": "Blueprint Newspapers",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrS3FFSFlDXy1zZXY1NDFoQnNUQklOV3Q4aTNYVmx0VFAtaklRYW93Qk54LXZ2UEVHNGIta1IwaGt5eV9KcTFjNmZVbEtvVk9rNUVaNHlDTTV6U3pkcDlnYUVIaERQZw?oc=5",
      "technique": "Initial Access (vector not disclosed)",
@@ -87,14 +95,6 @@
      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
      "technique": "Exploit Public-Facing Application",
      "attack": "T1190"
-    },
-    {
-     "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-     "date": "2026-11-21",
-     "source": "The Hacker News",
-     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-     "technique": "Exploit Public-Facing Application",
-     "attack": "T1190"
     }
    ]
   },
@@ -105,6 +105,14 @@
    "lon": -2,
    "incidents": [
     {
+     "title": "Secret Cyber Operation to Secure UK Fridges Against Hackers",
+     "date": "2026-11-22",
+     "source": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQjduMTFkZTExRTh4b2s2bmZCLWcwNVlRbmpnS2FZUEJZNm4tWU5YVlZnT1ZSSWx6ZmlqUElUSkxzV0tqVEJfUXZDTTJTLU82MnI5cG9aa3Z0S1VXRGtFN0ZFWTZrcFBHMDBYck42cHZQYkVhTmp0eFhwelNhY25qeTNEVVJ5ZnZlSzJSQnZmdlU4eFEtRjliSmZpYlowbU9uYlcyNmlIcGNEY2M?oc=5",
+     "technique": "Initial Access (vector not disclosed)",
+     "attack": "TA0001"
+    },
+    {
      "title": "Secret UK operation protects shop fridges from hackers",
      "date": "2026-11-22",
      "source": "https://www.irishsun.com/",
@@ -113,20 +121,12 @@
      "attack": "TA0001"
     },
     {
-     "title": "UK Ran a Secret Operation to Protect Thousands of Fridges From Cyberattack",
-     "date": "2026-11-20",
-     "source": "Gadget Review",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTlMVHg0NjZzQjdnc0J6NXVXN3huS2VIb1ZHSnRocVNCU0J5NEg1MjNldWt5Ynh1Q2JCdHdCaGR5R1pQVjNONEMxREpTc1FHSkxVWlM0eUtyQl9SdDlEN3gzMi1hTDB6ME1KLTgxdU1wdDlnUjhaS28zZFpzbUFxY2ZsRlVoLUFHUWhjLU1rRVI0Q0U1MkpEb0FsNllxTTBfaTlFZ2tB?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
-    },
-    {
-     "title": "The Fridge Cyber Attacks Explained — And Why UK Supermarkets Are On Alert",
-     "date": "2026-11-20",
-     "source": "HuffPost UK",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjBIVmhzRlhzeElDaGZiMGJlaGRKc2F0dENjTDZVZzBXOWRKdFhQVTZLWXRJZURaRGo0eldyS0dyel9vRjdNYmVnMm5RV29FSS11d1BjNmJxNFRDZnNTMkY1SHhNRzA3ZE1DNzhnN0NFenAyN2Ewbk1Xc3N5OTFuNzcyMHNWY1RZQTRWQlZxaTFJcUJIdFd2NDRRNk8?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
+     "title": "UK finds fix for fridge and freezer vulnerability after European hacks",
+     "date": "2026-11-21",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVlPYjE2cEpJQjlLNzNNcjVjRnI3LUxkcnE5UVJBak9QOTlPUXR2S1htU3BEUWxfM0RfUmo2QVVfX0g3cXpzTjdUSFNRMERVR0FKUVJ4T21TYUhUU2d3bE9tV2hpaGo1bUxqc25WR0VYWFl0Z0UxZDBiMGM3RUdYODlURmFxYnVvcm9KTXVhZWdObGl0bTZfNENXTTlhdG9ibzVNX1hCOFpkQ1k?oc=5",
+     "technique": "Exploit Public-Facing Application",
+     "attack": "T1190"
     }
    ]
   },
@@ -137,26 +137,26 @@
    "lon": 90,
    "incidents": [
     {
-     "title": "From Russian athletes to Iranian hackers: EU weighs tougher action",
-     "date": "2026-11-22",
-     "source": "EU Perspectives",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fZXBGNHM5Q3VDd2JNYVhxRWZtbFJFV3hHRDdMRTVSaTExT19GQUYtS2drY0daTXdnRlJ6d1Y0Z0tKa182blRJNmppbUZQdG9ZdHNJekdwenAwMURIQldPSmIxWjRJMDJyTDhwTmR5UEdGTTZrdGowd3ZVdnF4dw?oc=5",
+     "title": "Russia’s FSB hackers launch new phishing attacks on journalists, targeting Christo Grozev and a reporter behind the Panama Papers",
+     "date": "2026-11-23",
+     "source": "Meduza",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNU0ZuLUNJY3Y2MF9OaXo1cmN3RTlDYUVDSnN2MTM0dHkzemg1TzZqZlJPbTdVVERkWEdwNlA5ZzYyTHRQcGRZemV2czRJT2d5d19XOU9hNmpjaHdhakM1RXNGZFIyQWJxZWpUcm8wMjQ0MW9ackdEZGxGR0ZlbkZPU2RsQTJMTU5pY2tWWTVWY1lLSmdxUmI1YWQtb3FvR1ZjUlFsMGY5aTFjWTJJVnJhVVhubV9NVDBSbTAxT2JUN0I0aVR3WWNFZFhjNnQ3ZmlMbG4tMzRja0duRGlsYmwzcjVBbGpKclNzaEpoa3ZCRWtWcjRZNzFFTzk4NVbSAYICQVVfeXFMUGNKQ25pTTdiU0ItdndIUlVwc0VQSXFrcVZJdnlqYjF6Um5vR0RPQ0ViYkpjMkItLUdXVEdjWGc0Z0FRc1QzQTVTNDJ1RVpzLTcxTEhjOUFTR0NNdDg2MDgza0xxOHQ1ZG5MaGJ3Zk1wMUY2cUUzMWNmTm9qcjItZjN4WWtwcDF0WlIxdEk5SnhraGFQdHJKNjJVbGFVTmRIR3RncE5pcHdieW1MdHdmazd3STYtaWlkU3JBLXhBOVJlYmh1UE1XcU5hY0pSTE9nU0ZmSXBxQ2lDdTZxYnhMaDZ5ZWRWX0NpWFhxbWlRMjF1Z0V1LXN0anE1OE9kNEFZSzNn?oc=5",
+     "technique": "Phishing",
+     "attack": "T1566"
+    },
+    {
+     "title": "Trump says cyberattack on FBI database could have silver lining of uncovering supposed 'Russia hoax'",
+     "date": "2026-11-21",
+     "source": "Daily Mail",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWFDVV9KQlhQNnJ5SVdhSWREeHd6WFNrVXBSSm94Zm11MnlnQk5LN0hQSjJZVmhiQ2hYVGlFcHNWWlI4SjJpODNabnYwRFZkR0g3RWVqbDE2b19jTWVlYkxwbzUtaEJqd0xXWmVjR052MmpoY2ZickxNcnU3UmNQTU9HVHZEUW5FZUd2T2dHdXFZX3IycG1QbjVrQjlJamQ3TEtBStIBqgFBVV95cUxQcmFUcnM3Wl9SUlFvV2tLdTk4SzVLbUNrcFpXeWx5QnU4UzFFdk9zRndJbVFuNzZyZnRSRGhxLUdnY1FzanFIVGNxcnNENFNxNmRkQnNZT25hZHYzNDNrQkRUNXgyOTAybkRMbF95TmczUmQ4MmlRSEpYNE9oODdFdVlfMUNTRk1vVW1sU3ZabW5OM2UtUFEyYWtlNXZodVNvUUE1ZTI1cDB5QQ?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     },
     {
-     "title": "Russia says foreign spies plan cyber attack on banking system",
+     "title": "FBI Hacked, Trump Sees Opportunity: 'Maybe We'll Learn About Russia Hoax'",
      "date": "2026-11-21",
-     "source": "Yeni Safak English",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXJHMHJGMUVtM1I1Vl83OEJxZ3JnT0lSTXlYYW9HdWNILWQxaUdOaC1VYVVDcmxUVFdNRERKVkNSYUpfcmhlSjB2cTNaSjBJSEV0b2ZSY1NYSTFza0YxbW1PcW92VjZoa3lfcnYya2wwQUVpcGN4UmxGN2FuNWI1Q04wc0hWRGJadTNZaTFZSDV1aWpOVkd5RFBqRGhXMEp3Z3c?oc=5",
-     "technique": "Initial Access (vector not disclosed)",
-     "attack": "TA0001"
-    },
-    {
-     "title": "Trump thinks there may be upside to reported cyberattack on critical FBI database: ‘Russia, Russia, Russia hoax’",
-     "date": "2026-11-21",
-     "source": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXZic3ZIeEJnSXFQckl1SmlfeDVBZ1BLSmtCOTJ0WklzeVJRbXlTZmVKdlhKZU9aUmRaa2lUVjcyTnkxZkwyZnBWc1JadmpSdXVGTDc4MlZwNk00emlEdTZxWHljYWJkLU5IVmhVWVpDTC1WRDdHcW9nR1FQMW5zT3FsQmNtUkhBVEh0QkZjOGdhcm1Bal9vMGNkaVo4amVOYzI1N2NaT2lnNllEejdMQjQtaVYxYlhPSGFPd3hn?oc=5",
+     "source": "Times Now",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUlhOWhQeUcwMkpZeUpfUENrU1RleGtwa0lpT1RqMXRJTXRhOXZqb001SkgzQ0RVNzAxWHJaWi1obU41LV9uaFU1LVNQRlZQMlh3NTJJdVA5dzd2RXU4bGt3VnZRc3d0eGNDbUhZYy1JTzM4UmhkN1NXSi1ORklrWWZ5ZGFJcU5PZ211N3lnU0l5MmZ6eURUQjdjdzVLVGczYXAxaDQ4ZkRrQzhnamtCNURsYVZKSDhsaVVaM3lpZ21tVndsNUsxV9IBzgFBVV95cUxNT05Da0ZfUlM2a0VEVW9nd21jOGs3aDM0cTV0UzBJYU10dXpNcDFGempPS1A0RDM0bkZ0RXl6MjRJQU5KcnZ1MGF5bmhTVW1WcFJEMkJLNTYydU8zTWlNalhhUHVLemU3dDB0bjVjd0JQR3hxTlNseTNraDdxRVg4dVFaVWxwSjJCMm93T1pyUThYR1Rwel93LVdtM1NUUm1GampBUlNfcUdzazhGX1VMeUtfR1N1N0pWYWFFNWxoZjVzWTEweGVyd2NNN0Y4Zw?oc=5",
      "technique": "Initial Access (vector not disclosed)",
      "attack": "TA0001"
     }
@@ -169,18 +169,18 @@
    "lon": 104,
    "incidents": [
     {
-     "title": "Broadcom Patches Critical VMware vCenter Zero-Day Exploited By China-Linked Hackers Since September",
-     "date": "2026-11-21",
-     "source": "LinkedIn",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSy1NMGx5Sk1ZWnlTQjBZTmZQU05CSzhySmFDVGtPTV8xN1lrQmZXTDQ3TmNoNy1JUDRHTHlub3dwTzhvdDQyTGo0WTBTX0hmU2dMY25fLTl2Zy1nTnAwaE5tRlAtTTlELWs3anZuR0tiWWNQbV9VOVNFQ3dBWEpKSHpqd2tURnItN2h2eFB2UQ?oc=5",
+     "title": "China-Linked Hackers Use AI-Discovered Zero-Day to Take Full Control of University Server",
+     "date": "2026-11-23",
+     "source": "Cyber Press",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01MlV2bWowVTdSSFZhSURqb0RGR2dGS3JORW93Q2xTMzVlSDFGSm9sS2U3RWJ1ZE8td2tDOXMyNTdXRXlROFhuSTdJVmRRTGNpUU1GZEM1eFN3bTdGYldKdkhSeVFjaks1b0FtSU1uS01ScUN4ZlHSAXZBVV95cUxNNTJVdm1qMFU3UkhWYUlEam9ERkdnRktyTkVvd0NsUzM1ZUgxRkpvbEtlN0VidWRPLXdrQzlzMjU3V0V5UThYbkk3SVZkUUxjaVFNRmRDNXhTd203RmJXSnZIUnlRY2pLNW9BbUlNbktNUnFDeGZR?oc=5",
      "technique": "Exploit Public-Facing Application",
      "attack": "T1190"
     },
     {
-     "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-     "date": "2026-11-21",
-     "source": "SecurityWeek",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R?oc=5",
+     "title": "China-linked hackers used AI agents to exploit a MONAI Label zero-day, Amazon says",
+     "date": "2026-11-22",
+     "source": "Startup Fortune",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanJqUGM2NlRETmhyaGdSWC02Njk2a21qbHJNckcxTmR2Qkd6b3NZRUQ5UTN5eVM0VlZMYTZ2YlRVR0hCcXNpLTlTMk9ULUZVdjZkYUE3MERhc1UyRVVheGtQQjFJZFhoYW5HdXlJdDhMVXNZME5hTko3MmU4YTktLXdoWFQ5NlNTR2JCZktvNnVSUDZvaTJESGFjNTM3Q1VwUE1hLWx3NlJJbzdFUGc?oc=5",
      "technique": "Exploit Public-Facing Application",
      "attack": "T1190"
     },
